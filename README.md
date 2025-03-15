@@ -5,7 +5,7 @@
 Welcome to the *Thingylabs Performance Initiative* repository, which supports our health campaign, “Peak Performance through Health at Thingylabs GmbH,” and related outreach efforts to promote our high-performance, innovative software and cloud development environment.
 
 ## Purpose
-This initiative aims to enhance employee health, focus, and productivity through targeted measures (e.g., Melatonin 0.5 mg, Omega-3 750 mg) while positioning Thingylabs GmbH as a leader in the tech community. It includes:
+This initiative, owned by D3velop.ltd (In Gründung) in Seychelles and licensed to Thingylabs GmbH, aims to enhance employee health, focus, and productivity through targeted measures (e.g., Melatonin and Omega-3 EPA/DHA supplementation). It includes:
 - An Information and Consent Form for employee participation (anonymous and PII-free).
 - Anonymous surveys to evaluate campaign effectiveness.
 - Branding assets and outreach materials for external stakeholders.
@@ -30,11 +30,14 @@ We process personal data in accordance with the General Data Protection Regulati
 
 *Note*: This public repository contains no personally identifying information (PII). Sensitive data (e.g., signed consent forms, employee responses) is managed in a private, secure system to comply with GDPR.
 
+## Ownership and Licensing
+The intellectual property of this initiative, including all materials in this repository, is owned by D3velop.ltd (In Gründung) in Seychelles and licensed to Thingylabs GmbH for use in the “Peak Performance through Health” campaign. For licensing inquiries or use beyond this scope, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).
+
 ## Logo and Name Usage
 The Thingylabs GmbH logo (hotlinked from `https://www.thingylabs.io/logo-with-text.png`) and the name “Thingylabs GmbH” are proprietary to Thingylabs GmbH and not covered by this license. They may only be used for unaltered versions of the materials in this repository. Unauthorized commercial use, reproduction, modification, or distribution is prohibited without express written permission. © Thingylabs GmbH – All Rights Reserved.
 
 ## Contact
-For questions about the campaign, data protection, outreach, or commercial opportunities, contact us at [performance@thingylabs.io](mailto:performance@thingylabs.io) or call [+49 711 968 814 61](tel:+4971196881461).
+For questions about the campaign, data protection, outreach, commercial opportunities, or licensing, contact us at [performance@thingylabs.io](mailto:performance@thingylabs.io) or call [+49 711 968 814 61](tel:+4971196881461).
 
 ## License
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). You are free to:
@@ -51,7 +54,7 @@ For commercial licensing, premium services, or use of proprietary assets (e.g., 
 
 ---
 
-*Thank you for your trust in Thingylabs GmbH. We look forward to your participation, collaboration, and potential partnership!*
+*Thank you for your trust in Thingylabs GmbH and D3velop.ltd (In Gründung). We look forward to your participation, collaboration, and potential partnership!*
 
 ---
 
