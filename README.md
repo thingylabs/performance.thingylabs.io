@@ -26,16 +26,16 @@ This initiative aims to enhance employee health, focus, and productivity through
 | `outreach/`                  | Drafts for emails and social media posts.       |
 
 ## GDPR Compliance
-We process personal data in accordance with GDPR. Learn more [here](#gdpr-compliance).
+We process personal data in accordance with GDPR. Learn more [here](gdpr-compliance.md).
 
 ## Ownership and Licensing
-This initiative is owned by D3velop Ltd and licensed to Thingylabs GmbH. Learn more [here](#ownership-and-licensing).
+This initiative is owned by D3velop Ltd and licensed to Thingylabs GmbH. Learn more [here](ownership-and-licensing.md).
 
 ## Contact
 For inquiries, email [performance@thingylabs.io](mailto:performance@thingylabs.io) or call [+49 711 968 814 61](tel:+4971196881461).
 
 ## License
-This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Learn more [here](#license).
+This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ---
 
