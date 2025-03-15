@@ -1,4 +1,4 @@
-<!-- File: ./docs/consent-form.md -->
+<!-- docs/consent-form.md -->
 # Consent Form
 
 ## Overview
