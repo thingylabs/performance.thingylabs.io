@@ -5,7 +5,7 @@
 Welcome to the *Thingylabs Performance Initiative* repository, which supports our health campaign, “Peak Performance through Health at Thingylabs GmbH,” and related outreach efforts to promote our high-performance, innovative software and cloud development environment.
 
 ## Purpose
-This initiative, owned by D3velop.ltd (In Gründung) in Seychelles and licensed to Thingylabs GmbH, aims to enhance employee health, focus, and productivity through targeted measures (e.g., Melatonin and Omega-3 EPA/DHA supplementation). It includes:
+This initiative, owned by D3velop Ltd (In Gründung) in Seychelles and licensed to Thingylabs GmbH, aims to enhance employee health, focus, and productivity through targeted measures (e.g., Melatonin and Omega-3 EPA/DHA supplementation). It includes:
 - An Information and Consent Form for employee participation (anonymous and PII-free).
 - Anonymous surveys to evaluate campaign effectiveness.
 - Branding assets and outreach materials for external stakeholders.
@@ -54,7 +54,7 @@ For commercial licensing, premium services, or use of proprietary assets (e.g., 
 
 ---
 
-*Thank you for your trust in Thingylabs GmbH and D3velop.ltd (In Gründung). We look forward to your participation, collaboration, and potential partnership!*
+*Thank you for your trust in Thingylabs GmbH and D3velop Ltd (In Gründung). We look forward to your participation, collaboration, and potential partnership!*
 
 ---
 
