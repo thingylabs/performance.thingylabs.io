@@ -19,8 +19,9 @@ This initiative aims to enhance employee health, focus, and productivity through
 ## Contents
 | File/Folder                  | Description                                      |
 |------------------------------|--------------------------------------------------|
-| [`docs/consent-form.pdf`](./docs/consent-form.pdf) | Information and Consent Form for employees. |
-| `surveys/`                   | Anonymous survey templates.                     |
+| [`docs/consent-form.md`](./docs/consent-form.md) | Information and Consent Form for employees. |
+| [`surveys/README.md`](./surveys/README.md)       | Overview of survey templates and instructions.  |
+| [`surveys/survey-template.md`](./surveys/survey-template.md) | Dual-use survey template (anonymous and non-anonymous). |
 | `branding/`                  | Guidelines for colors, typography, and design.  |
 | `outreach/`                  | Drafts for emails and social media posts.       |
 
@@ -35,3 +36,7 @@ For inquiries, email [performance@thingylabs.io](mailto:performance@thingylabs.i
 
 ## License
 This work is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Learn more [here](#license).
+
+---
+
+*Thank you for your trust in Thingylabs GmbH and D3velop Ltd (In Gründung). We look forward to your participation, collaboration, and potential partnership!*
