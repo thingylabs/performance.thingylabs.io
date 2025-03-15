@@ -1,3 +1,4 @@
+<!-- README.md -->
 # Thingylabs Performance Initiative
 
 ![Thingylabs GmbH Logo](https://www.thingylabs.io/logo-with-text.png "Thingylabs GmbH Logo")
