@@ -117,27 +117,28 @@
 
     /* Main Content */
     main {
-      padding: 4rem;
+      padding: 8rem 4rem;
       max-width: 1200px;
-      margin: 8rem auto 0; /* Offset for fixed header */
+      margin: 0 auto;
     }
 
     h1 {
-      font-size: clamp(2rem, 4vw, 3rem);
+      font-size: clamp(2.5rem, 5vw, 4rem);
       font-weight: 300;
-      color: var(--accent);
+      line-height: 1.2;
       margin-bottom: 2rem;
+      max-width: 20ch;
     }
 
     h2 {
-      font-size: clamp(1.5rem, 3vw, 2.5rem);
+      font-size: clamp(2rem, 4vw, 3rem);
       font-weight: 300;
-      color: var(--accent);
-      margin-bottom: 1.5rem;
+      margin-bottom: 3rem;
+      max-width: 25ch;
     }
 
     h3 {
-      font-size: 1.25rem;
+      font-size: 1.5rem;
       font-weight: 400;
       margin-bottom: 1rem;
     }
@@ -180,7 +181,7 @@
 
     /* Footer */
     footer {
-      padding: 2rem 4rem;
+      padding: 4rem;
       background: var(--background-alt);
       border-top: 1px solid var(--border);
       text-align: center;
@@ -193,7 +194,7 @@
         padding: 1rem;
       }
       main {
-        margin-top: 6rem;
+        padding-top: 6rem;
       }
       .theme-switcher {
         gap: 0.25rem;
