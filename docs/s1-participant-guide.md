@@ -1,20 +1,57 @@
 ---
 layout: default
 title: Study 1 Participant Guide
-subheading: Use this weekly sheet to track your use of nutritional/physical health substances and report on well-being, energy, productivity, and sleep for our study at Thingylabs GmbH. Owned by D3velop Ltd, licensed to Thingylabs GmbH. Print this weekly, starting [insert start date], and fill it out daily for substances, then complete the end-of-week questions. Anonymous by default (GDPR-compliant).
+subheading: This guide outlines the process for participating in our scientific study on how nutritional and physical health strategies influence employee well-being, cognitive performance, and workplace productivity at Thingylabs GmbH.
 ---
 
 <!-- docs/s1-participant-guide.md -->
 # Study 1 Participant Guide
 
-## Daily Substance Tracking (Monday–Sunday)
-Fill out each day for the substances below. Check the box after taking, and write your custom dose (e.g., pills, drops). Follow packaging unless you choose otherwise. See the [Supplement Protocol](s1-supplement-protocol) for details on the substances included in this study.
+## Getting Started: Step-by-Step Instructions
 
-## Weekly Survey
-Fill out the [Daily Tracker](surveys/s1-daily-tracker) each day to log your substance intake and answer the end-of-week questions on Sunday.
+### Step 1: Create Your Participant Code
+1. Create your unique participant code using the format: **TL-YYYYMM-XXX**
+   - YYYYMM = Current year and month (e.g., 202311)
+   - XXX = Your chosen 3-digit number (e.g., 123)
+   - Example: TL-202311-123
+2. Remember this code and use it consistently on all study forms.
 
-## Notes
-- Print this weekly, fill out daily for substances, and complete end-of-week questions on Sunday. Submit via [survey link or email] or keep for follow-up.
-- Follow packaging for substances unless you choose otherwise (e.g., Omega-3: Precision Nutrition suggests 3–9 g daily total, 1–3 g EPA + DHA; see [Precision Nutrition](https://www.precisionnutrition.com/all-about-fish-oil#:~:text=Summary%20and%20recommendations,(e.g.%20herring%2C%20mackerel))).
-- Participation is voluntary, anonymous by default (GDPR-compliant). Contact [performance@thingylabs.io](mailto:performance@thingylabs.io) for questions.
-- No specific dosages or proprietary products—generic only, per Germany/EU/Seychelles regulations.
+### Step 2: Complete the Entry Survey
+1. Print the [Entry Survey](/thingylabs-performance-initiative/surveys/s1-entry-survey)
+2. Fill in your participant code at the top
+3. Complete all questions
+4. Submit your completed survey to your study coordinator or email to [performance@thingylabs.io](mailto:performance@thingylabs.io)
+
+### Step 3: Weekly Tracking (Repeat for 8 Weeks)
+1. Print a new [Daily Tracker](/thingylabs-performance-initiative/surveys/s1-daily-tracker) each week
+2. Write your participant code and the current week number (1-8) at the top
+3. Each day:
+   - Check the box for each supplement taken
+   - Note the dose used (e.g., pills, grams)
+4. On Sunday:
+   - Complete the end-of-week questions
+   - Submit your completed tracker to your study coordinator or email to [performance@thingylabs.io](mailto:performance@thingylabs.io)
+
+### Step 4: Complete the Exit Survey
+1. After 8 weeks, print the [Exit Survey](/thingylabs-performance-initiative/surveys/s1-exit-survey)
+2. Fill in your participant code at the top
+3. Complete all questions
+4. Submit your completed survey to your study coordinator or email to [performance@thingylabs.io](mailto:performance@thingylabs.io)
+
+## Supplement Protocol
+Follow the [Supplement Protocol](/thingylabs-performance-initiative/docs/s1-supplement-protocol) for details on the substances included in this study. You may follow packaging instructions or customize your dosage based on your needs.
+
+## Important Notes
+- **Pseudonymous Participation**: Your participant code allows us to track your progress without collecting personally identifying information.
+- **Voluntary Participation**: You may withdraw from the study at any time.
+- **Data Protection**: All data is collected and processed in compliance with GDPR.
+- **Supplement Guidance**: No specific dosages or proprietary products are required—generic supplements only, per Germany/EU/Seychelles regulations.
+- **Questions?**: Contact [performance@thingylabs.io](mailto:performance@thingylabs.io) for any questions or concerns.
+
+## Study Timeline
+- **Study Duration**: 8 weeks
+- **Start Date**: [Insert Start Date]
+- **End Date**: [Insert End Date]
+- **Weekly Submissions**: Due every Sunday by 11:59 PM
+
+Thank you for participating in the Thingylabs Performance Initiative Study 1. Your contributions will help advance evidence-based practices in nutritional and physical health strategies for workplace well-being and productivity.
