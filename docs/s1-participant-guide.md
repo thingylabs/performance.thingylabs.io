@@ -5,8 +5,6 @@ subheading: This guide outlines the process for participating in our scientific 
 ---
 
 <!-- docs/s1-participant-guide.md -->
-# Study 1 Participant Guide
-
 ## Getting Started: Step-by-Step Instructions
 
 ### Step 1: Create Your Participant Code
