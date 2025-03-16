@@ -19,7 +19,23 @@ This initiative, owned by D3velop Ltd (In Gründung) in Seychelles and licensed 
 This initiative is being developed into a proprietary commercial product for licensing or consulting services to other tech companies. For commercial inquiries or premium services, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).
 
 ## Overview
-The repository contains concise, lean documentation and resources to support our scientific study, including numbered study outlines, protocols, simple protocols, and surveys (e.g., study-1-outline, study-1-protocol, study-1-simple-protocol, 1-Entry Survey, 2-Follow-Up Survey, with sub-numbers like study-1.1-outline, study-1.1-protocol, 1.1-Interim Survey) for anonymous and non-anonymous data collection via weekly printable sheets, as well as supporting materials for GDPR compliance, branding, and outreach. Explore the directories (`docs/`, `surveys/`, `branding/`, `outreach/`) directly for specific files and tools.
+
+This repository provides straightforward resources for our scientific study, including:
+
+- Study outlines, protocols, and simple participant guides.
+- Surveys for collecting data with weekly printable sheets.
+
+Explore these directories for what you need:
+
+- **`docs/`**: Study plans and participant instructions.
+- **`surveys/`**: Weekly tracking sheets and surveys.
+
+## Next Steps for Facilitators
+
+- Check the study plans and guides in `docs/` to get started.
+- Share the participant guides from `docs/` with your group.
+- Hand out the weekly sheets from `surveys/` for daily tracking.
+- Collect completed sheets at the end of each week.
 
 ## GDPR Compliance
 We process personal data in accordance with the General Data Protection Regulation (GDPR). Learn more in [gdpr-compliance.md](gdpr-compliance.md).
