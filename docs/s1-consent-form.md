@@ -5,8 +5,6 @@ subheading: This consent form is required for participation in the Thingylabs Pe
 ---
 
 <!-- docs/s1-consent-form.md -->
-# Study 1 Consent Form
-
 ## Pseudonymous Participation
 This study uses a pseudonymous approach to protect your privacy while allowing us to track your progress across multiple surveys. You will create a unique participant code that you'll use throughout the study instead of providing your name or other directly identifying information.
 
