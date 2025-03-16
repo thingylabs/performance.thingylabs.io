@@ -162,6 +162,23 @@
       margin-left: 2rem;
     }
 
+    /* Add this to your existing CSS */
+    ol {
+      list-style: decimal;
+      margin-left: 2rem;
+    }
+    
+    /* This ensures nested lists are properly indented */
+    ol ol, ul ul, ol ul, ul ol {
+      margin-bottom: 0;
+      margin-left: 2rem;
+    }
+    
+    /* This ensures list items in ordered lists have the same styling as unordered lists */
+    ol li {
+      margin-bottom: 1rem;
+    }
+
     /* Tables */
     table {
       width: 100%;
