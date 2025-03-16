@@ -3,7 +3,7 @@
 ## 🚀 **Start Here**  
 > Visit the [official website](https://thingylabs.github.io/thingylabs-performance-initiative/) for a user-friendly introduction to the Thingylabs Performance Initiative.  
 
-![Thingylabs GmbH Logo](https://www.thingylabs.io/logo-with-text.png "Thingylabs GmbH Logo" style="width: 200px; margin: 0 auto; display: block;")
+![Thingylabs GmbH Logo](https://www.thingylabs.io/logo-with-text.png "Thingylabs GmbH Logo")
 
 Welcome to the *Thingylabs Performance Initiative* repository, supporting our scientific campaign, “Peak Performance through Health at Thingylabs GmbH,” and related outreach efforts to promote our high-performance, innovative software and cloud development environment through nutritional and physical health strategies.
 
