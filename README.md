@@ -7,25 +7,19 @@ Welcome to the *Thingylabs Performance Initiative* repository, supporting our sc
 
 ## Table of Contents
 - [Purpose](#purpose)
-- [Structure](#structure)
+- [Overview](#overview)
 - [GDPR Compliance](#gdpr-compliance)
 - [Ownership and Licensing](#ownership-and-licensing)
 - [Contact](#contact)
 - [License](#license)
 
 ## Purpose
-This initiative, owned by D3velop Ltd (In Gründung) in Seychelles and licensed to Thingylabs GmbH, aims to enhance employee physiological and psychological well-being, cognitive performance, and workplace productivity through evidence-based nutritional and physical health strategies (e.g., energy availability, macronutrient balance, ergogenic aids, recovery optimization) while positioning Thingylabs GmbH as a leader in the tech community. It includes scientific surveys, consent forms, branding assets, and outreach materials to advance research and promote our mission.
+This initiative, owned by D3velop Ltd (In Gründung) in Seychelles and licensed to Thingylabs GmbH, aims to enhance employee physiological and psychological well-being, cognitive performance, and workplace productivity through evidence-based nutritional and physical health strategies (e.g., energy availability, macronutrient balance, ergogenic aids, recovery optimization) while positioning Thingylabs GmbH as a leader in the tech community. It includes scientific surveys, numbered study outlines (e.g., study-1-outline, study-2-outline, with sub-numbers like study-1.1-outline), numbered protocols (e.g., study-1-protocol, study-2-protocol, with sub-numbers like study-1.1-protocol), consent forms, branding assets, and outreach materials to advance research and promote our mission.
 
 This initiative is being developed into a proprietary commercial product for licensing or consulting services to other tech companies. For commercial inquiries or premium services, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).
 
-## Structure
-The repository is organized into directories and files that support our scientific study and outreach efforts, including:
-- Surveys (e.g., numbered as 1-Entry Survey, 2-Follow-Up Survey, with sub-numbers like 1.1-Interim Survey) for anonymous and non-anonymous data collection on nutritional and physical health strategies.
-- Documentation on GDPR compliance, ownership, and licensing.
-- Branding guidelines for colors, typography, and design.
-- Outreach materials for emails, social media, and other promotional content.
-
-For detailed access to specific files, explore the `docs/`, `surveys/`, `branding/`, and `outreach/` directories directly.
+## Overview
+The repository contains concise, lean documentation and resources to support our scientific study, including numbered study outlines, protocols, and surveys (e.g., study-1-outline, study-1-protocol, 1-Entry Survey, 2-Follow-Up Survey, with sub-numbers like study-1.1-outline, study-1.1-protocol, 1.1-Interim Survey) for anonymous and non-anonymous data collection, as well as supporting materials for GDPR compliance, branding, and outreach. Explore the directories (`docs/`, `surveys/`, `branding/`, `outreach/`) directly for specific files and tools.
 
 ## GDPR Compliance
 We process personal data in accordance with the General Data Protection Regulation (GDPR). Learn more in [gdpr-compliance.md](gdpr-compliance.md).
