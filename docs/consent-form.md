@@ -1,8 +1,8 @@
-<!-- docs/consent-form.md -->
+// docs/consent-form.md
 # Consent Form
 
 ## Overview
-The Thingylabs Performance Initiative includes a **dual-use Information and Consent Form** for employees to participate in the campaign. This form can be adapted for both **anonymous** and **non-anonymous** participation, depending on your needs.
+The Thingylabs Performance Initiative includes a **dual-use Information and Consent Form** for employees to participate in the campaign, targeting health, focus, and productivity through targeted health measures. This form can be adapted for both **anonymous** and **non-anonymous** participation, depending on your needs.
 
 ## Instructions
 ### For Anonymous Participation
@@ -23,7 +23,7 @@ The Thingylabs Performance Initiative includes a **dual-use Information and Cons
 - **Email**: _________________________
 
 ### Consent Statement
-I agree to participate in the Thingylabs Performance Initiative. For non-anonymous participation, I consent to the collection and processing of my personally identifying information (PII) in compliance with GDPR. I understand that I may withdraw my consent at any time.
+I agree to participate in the Thingylabs Performance Initiative, which includes targeted health measures to enhance my health, focus, and productivity. For non-anonymous participation, I consent to the collection and processing of my personally identifying information (PII) in compliance with GDPR. I understand that I may withdraw my consent at any time and that my data will be deleted 12 months after the campaign ends unless I agree otherwise.
 
 ### Signature
 - **Signature**: _________________________
@@ -32,3 +32,8 @@ I agree to participate in the Thingylabs Performance Initiative. For non-anonymo
 ---
 
 *For questions, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).*
+
+---
+
+### License
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). © D3velop Ltd (In Gründung) – Licensed to Thingylabs GmbH.

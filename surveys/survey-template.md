@@ -1,8 +1,8 @@
-<!-- surveys/survey-template.md -->
+// surveys/survey-template.md
 # Thingylabs Performance Initiative Survey
 
 ## Instructions for Use
-This template can be used for both **anonymous** and **non-anonymous** surveys. Follow the steps below to customize it for your needs.
+This template can be used for both **anonymous** and **non-anonymous** surveys to evaluate the impact of the Thingylabs Performance Initiative, including targeted health measures to enhance employee health, focus, and productivity. Follow the steps below to customize it for your needs.
 
 ### For Anonymous Surveys
 1. Remove or skip the **Consent Statement** and **PII Questions** sections.
@@ -17,7 +17,7 @@ This template can be used for both **anonymous** and **non-anonymous** surveys. 
 ---
 
 ## Consent Statement (For Non-Anonymous Surveys)
-By participating in this survey, you agree to provide personally identifying information (PII). Your data will be processed in compliance with GDPR. You may withdraw your consent at any time.
+By participating in this survey, you agree to provide personally identifying information (PII) to evaluate the Thingylabs Performance Initiative, including targeted health measures to enhance health, focus, and productivity. Your data will be processed in compliance with GDPR. You may withdraw your consent at any time, and your data will be deleted 12 months after the campaign ends unless you agree otherwise.
 
 ---
 
@@ -48,3 +48,8 @@ Thank you for participating in the Thingylabs Performance Initiative Survey! You
 ---
 
 *For questions, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).*
+
+---
+
+### License
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). © D3velop Ltd (In Gründung) – Licensed to Thingylabs GmbH.

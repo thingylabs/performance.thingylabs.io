@@ -1,8 +1,8 @@
-<!-- gdpr-compliance.md -->
+// gdpr-compliance.md
 # GDPR Compliance
 
 ## Overview
-We process personal data in accordance with the General Data Protection Regulation (GDPR).
+We process personal data in accordance with the General Data Protection Regulation (GDPR) for the Thingylabs Performance Initiative, which includes targeted health measures to enhance employee health, focus, and productivity.
 
 ## Key Points
 ### For Anonymous Surveys
@@ -19,3 +19,8 @@ We process personal data in accordance with the General Data Protection Regulati
 ---
 
 *For questions, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).*
+
+---
+
+### License
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). © D3velop Ltd (In Gründung) – Licensed to Thingylabs GmbH.
