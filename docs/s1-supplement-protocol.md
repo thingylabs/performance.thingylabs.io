@@ -35,9 +35,6 @@ These comply with Germany/EU and Seychelles health regulations, with no specific
 - For information on how your data is handled, see: [GDPR Compliance](/thingylabs-performance-initiative/gdpr-compliance).
 - Contact [performance@thingylabs.io](mailto:performance@thingylabs.io) for questions or to report adverse reactions.
 
-## Limitations
-- Small sample size (n=2 initially) limits generalizability but serves as a pilot for scaling.
-
 ## Disclaimer and Indemnification
 - **Consult Healthcare Providers**: Participants should consult with their healthcare providers before starting any supplement regimen, especially if they have pre-existing health conditions or are taking medications.
 - **Not Medical Advice**: This protocol does not constitute medical advice. The supplements listed are suggestions based on scientific literature, not prescriptions.
