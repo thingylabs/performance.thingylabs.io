@@ -1,147 +1,358 @@
 ---
 layout: default
-title: Study 1 Entry Survey
-subheading: This survey is the initial data collection (Survey 1) for our scientific study on how nutritional and physical health strategies (e.g., ergogenic aids, energy availability, recovery optimization) influence employee health, cognitive performance, and workplace productivity at Thingylabs GmbH. All responses are collected pseudonymously to protect your privacy while allowing us to track your progress across multiple surveys.
+title: Study 1 Daily Tracker
+subheading: Track your supplement intake daily (Monday–Sunday) and answer the end-of-week questions on Sunday. Check the box if taken and note your dose (e.g., pills, grams). See the <a href="/thingylabs-performance-initiative/docs/s1-supplement-protocol">Supplement Protocol</a> for details.
 ---
 
-<!-- surveys/s1-entry-survey.md -->
-# Study 1 Entry Survey
+<!-- surveys/s1-daily-tracker.md -->
+# Study 1 Daily Tracker
 
 ## Participant Identification
-To track your progress across multiple surveys without collecting personally identifying information, please use the pseudonymous code below. This code will be used to link your responses across different surveys while maintaining your anonymity.
+To track your progress across multiple surveys without collecting personally identifying information, please use your pseudonymous code. This code links your responses across different surveys while maintaining your anonymity.
 
 <table>
   <tr>
     <td><strong>Participant Code</strong></td>
-    <td class="write-in">TL-{{ site.time | date: '%Y%m' }}-_______</td>
+    <td class="write-in">TL-____________</td>
+  </tr>
+  <tr>
+    <td><strong>Week Number</strong></td>
+    <td class="write-in">Week ____________</td>
   </tr>
   <tr>
     <td colspan="2" class="note">
-      <em>Please add a unique 3-digit number that you'll remember (e.g., TL-202311-123). Use the same code for all surveys in this study.</em>
+      <em>Use the same participant code (e.g., TL-202311-123) for all surveys. Include the week number (1-8) of the study.</em>
     </td>
   </tr>
 </table>
 
----
-
-## Consent Statement
-By participating in this survey, you agree to contribute to our scientific research on the Thingylabs Performance Initiative, which investigates nutritional and physical health strategies to enhance health, cognitive performance, and productivity. Your data will be collected pseudonymously (using your participant code), processed in compliance with GDPR, stored securely, and deleted 12 months after the study concludes. You may withdraw your consent at any time.
-
-<p class="print-consent">
-□ I consent to participate in this pseudonymous survey (check box)
-</p>
-
----
-
-## Survey Questions
-### Section 1: Nutritional and Physical Health (Hypothesis: Ergogenic Aids and Energy Availability Improve Well-being)
+## Monday
 <table>
-  <tr>
-    <td colspan="2">
-      <strong>1. On a scale of 1 to 5, how would you rate your overall physiological and psychological well-being since adopting the initiative's nutritional and physical health strategies (e.g., energy availability, recovery optimization)?</strong>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" class="print-options">
-      Circle one: &nbsp;&nbsp; 1 - Very Poor &nbsp;&nbsp; 2 - Poor &nbsp;&nbsp; 3 - Neutral &nbsp;&nbsp; 4 - Good &nbsp;&nbsp; 5 - Excellent
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" class="note">
-      <em>(This quantifiable metric, using terms like "energy availability" and "recovery optimization," tests the hypothesis that nutritional strategies enhance well-being, per Sports Nutrition standards—Web:1.)</em>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <strong>2. Have you experienced measurable improvements in your energy availability or recovery capacity (e.g., reduced fatigue, enhanced recovery)?</strong>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" class="print-options">
-      Circle one: &nbsp;&nbsp; Yes &nbsp;&nbsp; No
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      If Yes, briefly describe in 50 characters or less:<br>  
-      <span class="write-in long">________________________________________________</span>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" class="note">
-      <em>(This binary question, with a concise qualitative follow-up, uses "energy availability" and "recovery capacity" to assess nutritional impact scientifically, feasible within time constraints—Web:0.)</em>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Supplement</th>
+      <th>Taken?</th>
+      <th>Dose (e.g., pills, grams)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>All-Natural Multivitamin</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Omega-3 (high EPA/DHA)</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Nutrabolics Hydropure</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Green Tea Extract</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Anthocyanins</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Melatonin</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+  </tbody>
 </table>
 
-### Section 2: Cognitive Performance and Productivity (Hypothesis: Nutritional Strategies Boost Performance)
+## Tuesday
 <table>
-  <tr>
-    <td colspan="2">
-      <strong>3. On a scale of 1 to 5, how has the initiative's focus on nutritional strategies (e.g., macronutrient balance, ergogenic aids) influenced your daily work productivity?</strong>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" class="print-options">
-      Circle one: &nbsp;&nbsp; 1 - Significantly Decreased &nbsp;&nbsp; 2 - Slightly Decreased &nbsp;&nbsp; 3 - No Change &nbsp;&nbsp; 4 - Slightly Increased &nbsp;&nbsp; 5 - Significantly Increased
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" class="note">
-      <em>(This quantifiable metric, using "macronutrient balance" and "ergogenic aids," tests the hypothesis that nutritional strategies enhance productivity, per Sports Nutrition—Web:1.)</em>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <strong>4. Have you noticed a consistent enhancement in your cognitive performance or mental alertness during work hours due to these strategies?</strong>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" class="print-options">
-      Circle one: &nbsp;&nbsp; Yes &nbsp;&nbsp; No
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      If Yes, briefly describe in 50 characters or less:<br>  
-      <span class="write-in long">________________________________________________</span>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" class="note">
-      <em>(This binary question, with a concise qualitative follow-up, uses "cognitive performance" and "mental alertness" to assess scientific impact, aligned with Sports Sciences—Web:3.)</em>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Supplement</th>
+      <th>Taken?</th>
+      <th>Dose (e.g., pills, grams)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>All-Natural Multivitamin</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Omega-3 (high EPA/DHA)</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Nutrabolics Hydropure</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Green Tea Extract</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Anthocyanins</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Melatonin</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+  </tbody>
 </table>
 
-### Section 3: Scientific Feedback (Hypothesis: Specific Strategies Are Effective)
+## Wednesday
 <table>
-  <tr>
-    <td colspan="2">
-      <strong>5. Which nutritional or physical health strategies (e.g., macronutrient balance, ergogenic aids, recovery optimization) do you believe most contributed to any observed improvements in your well-being or productivity?</strong>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <div class="write-in-box">
-        <span class="write-in-line">________________________________________________</span>
-        <span class="write-in-line">________________________________________________</span>
-        <span class="write-in-line">________________________________________________</span>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" class="note">
-      <em>(This concise qualitative question, using field-specific terms, gathers insights for hypothesis refinement, maintaining scientific rigor within time limits—Web:0.)</em>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Supplement</th>
+      <th>Taken?</th>
+      <th>Dose (e.g., pills, grams)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>All-Natural Multivitamin</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Omega-3 (high EPA/DHA)</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Nutrabolics Hydropure</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Green Tea Extract</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Anthocyanins</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Melatonin</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+  </tbody>
 </table>
 
----
+## Thursday
+<table>
+  <thead>
+    <tr>
+      <th>Supplement</th>
+      <th>Taken?</th>
+      <th>Dose (e.g., pills, grams)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>All-Natural Multivitamin</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Omega-3 (high EPA/DHA)</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Nutrabolics Hydropure</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Green Tea Extract</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Anthocyanins</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Melatonin</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+  </tbody>
+</table>
 
-## Thank You
-Thank you for contributing to our scientific study on workplace health and productivity through the Thingylabs Performance Initiative 1-Entry Survey. Your responses will help advance evidence-based practices in Sports and Nutritional Sciences for workplace settings.
+## Friday
+<table>
+  <thead>
+    <tr>
+      <th>Supplement</th>
+      <th>Taken?</th>
+      <th>Dose (e.g., pills, grams)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>All-Natural Multivitamin</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Omega-3 (high EPA/DHA)</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Nutrabolics Hydropure</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Green Tea Extract</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Anthocyanins</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Melatonin</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+  </tbody>
+</table>
 
----
+## Saturday
+<table>
+  <thead>
+    <tr>
+      <th>Supplement</th>
+      <th>Taken?</th>
+      <th>Dose (e.g., pills, grams)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>All-Natural Multivitamin</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Omega-3 (high EPA/DHA)</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Nutrabolics Hydropure</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Green Tea Extract</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Anthocyanins</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Melatonin</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+  </tbody>
+</table>
 
-*For questions, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).*
+## Sunday
+<table>
+  <thead>
+    <tr>
+      <th>Supplement</th>
+      <th>Taken?</th>
+      <th>Dose (e.g., pills, grams)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>All-Natural Multivitamin</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Omega-3 (high EPA/DHA)</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Nutrabolics Hydropure</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Green Tea Extract</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Anthocyanins</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+    <tr>
+      <td><strong>Melatonin</strong></td>
+      <td>□</td>
+      <td class="write-in">________________</td>
+    </tr>
+  </tbody>
+</table>
+
+## End-of-Week Questions (Sunday)
+Answer these on Sunday to assess your week:
+
+<div class="end-of-week">
+  <p><strong>Well-Being</strong>: Rate 1–5 (1=poor, 5=excellent).<br>
+  <span class="write-in">________________</span></p>
+
+  <p><strong>Energy/Recovery</strong>: Improved? (Yes/No)<br>
+  <span class="write-in">________________</span><br>
+  Comments (50 chars max):<br>
+  <span class="write-in long">________________________________________________</span></p>
+
+  <p><strong>Productivity</strong>: Rate 1–5 (1=low, 5=high).<br>
+  <span class="write-in">________________</span></p>
+
+  <p><strong>Cognitive Performance</strong>: Enhanced? (Yes/No)<br>
+  <span class="write-in">________________</span><br>
+  Comments (50 chars max):<br>
+  <span class="write-in long">________________________________________________</span></p>
+
+  <p><strong>Sleep</strong>: Improved? (Yes/No)<br>
+  <span class="write-in">________________</span><br>
+  Comments (50 chars max):<br>
+  <span class="write-in long">________________________________________________</span></p>
+</div>
+
+<div class="submission-note">
+  <p><strong>Submission Instructions:</strong> Please submit your completed tracker at the end of each week to <a href="mailto:performance@thingylabs.io">performance@thingylabs.io</a> or hand it in to your study coordinator.</p>
+</div>
