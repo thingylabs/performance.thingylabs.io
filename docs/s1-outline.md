@@ -41,11 +41,3 @@ subheading: This outline defines the scope and structure of Study 1 at Thingylab
 - Insights for scaling to a broader employee base or commercial product.
 - Development of GDPR-compliant methodologies for workplace health research.
 
----
-
-*For questions or to exercise your GDPR rights, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).*
-
----
-
-### License
-This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). © D3velop Ltd (In Gründung) – Licensed to Thingylabs GmbH.
