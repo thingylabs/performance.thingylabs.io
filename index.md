@@ -1,4 +1,3 @@
-<!-- README.md -->
 ---
 layout: default
 title: Thingylabs Performance Initiative
