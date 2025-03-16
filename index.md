@@ -39,11 +39,14 @@ Follow these steps to participate in the study:
 
 1. **Read the guide**: Review the [Participant Guide](/thingylabs-performance-initiative/docs/s1-participant-guide) to understand the study.
 2. **Create your code**: Generate a unique participant code (e.g., TL-202311-123) that you'll use throughout the study.
-3. **Review supplements**: Check the [Supplement Protocol](/thingylabs-performance-initiative/docs/s1-supplement-protocol) to understand the recommended supplements.
-4. **Track daily**: Use the [Daily Tracker](/thingylabs-performance-initiative/surveys/s1-daily-tracker) to log your supplement intake and experiences each day.
-5. **Complete weekly questions**: Answer the end-of-week questions each Sunday.
-6. **Submit your tracker**: Return your completed tracker to your facilitator each week.
-7. **Understand your rights**: Review the [GDPR Compliance](/thingylabs-performance-initiative/gdpr-compliance) page to understand how your data is protected.
+3. **Sign the consent form**: Complete and sign the consent section at the end of the Participant Guide to confirm your voluntary participation.
+4. **Review supplements**: Check the [Supplement Protocol](/thingylabs-performance-initiative/docs/s1-supplement-protocol) to understand the recommended supplements.
+5. **Complete entry survey**: Fill out the Entry Survey with your participant code to establish your baseline.
+6. **Track daily**: Use the [Daily Tracker](/thingylabs-performance-initiative/surveys/s1-daily-tracker) to log your supplement intake and experiences each day.
+7. **Complete weekly questions**: Answer the end-of-week questions each Sunday.
+8. **Submit your tracker**: Return your completed tracker to your facilitator each week.
+9. **Complete exit survey**: After the study period, fill out the Exit Survey to document your overall experience.
+10. **Understand your rights**: Review the [GDPR Compliance](/thingylabs-performance-initiative/gdpr-compliance) page to understand how your data is protected.
 
 ## For Facilitators
 Follow these steps to manage the study:
