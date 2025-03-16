@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Study 1 Entry Survey
-subheading: This survey is the initial data collection (Survey #1) for our scientific study on how nutritional and physical health strategies (e.g., ergogenic aids, energy availability, recovery optimization) influence employee health, cognitive performance, and workplace productivity at Thingylabs GmbH. It can be conducted as either **anonymous** or **non-anonymous**, depending on your needs. Follow the steps below to customize it for your team.
+subheading: This survey is the initial data collection (Survey 1) for our scientific study on how nutritional and physical health strategies (e.g., ergogenic aids, energy availability, recovery optimization) influence employee health, cognitive performance, and workplace productivity at Thingylabs GmbH. It can be conducted as either <b>anonymous</b> or <b>non-anonymous</b>, depending on your needs. Follow the steps below to customize it for your team.
 ---
 
 <!-- surveys/s1-entry-survey.md -->

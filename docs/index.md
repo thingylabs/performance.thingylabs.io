@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Study 1 Documents
-subheading: Resources for Study 1 at Thingylabs GmbH:
+subheading: Resources for Study 1 at Thingylabs GmbH.
 ---
 
 <!-- docs/index.md -->
