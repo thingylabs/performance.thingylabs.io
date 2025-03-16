@@ -16,6 +16,8 @@
       --background: #ffffff;
       --background-alt: #f8f9fa;
       --border: #eee;
+      --switcher-bg: #f3f4f6;
+      --switcher-text: #1f2937;
     }
 
     @media (prefers-color-scheme: dark) {
@@ -26,6 +28,8 @@
         --background: #111827;
         --background-alt: #1f2937;
         --border: #374151;
+        --switcher-bg: #1f2937;
+        --switcher-text: #e5e7eb;
       }
     }
 
@@ -36,6 +40,8 @@
       --background: #111827;
       --background-alt: #1f2937;
       --border: #374151;
+      --switcher-bg: #1f2937;
+      --switcher-text: #e5e7eb;
     }
 
     * {
@@ -59,10 +65,18 @@
 
     /* Header */
     header {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
       padding: 1.5rem 4rem;
       background: var(--background);
       border-bottom: 1px solid var(--border);
-      text-align: center;
+      z-index: 1000;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      transition: background-color 0.3s ease;
     }
 
     .logo {
@@ -76,11 +90,36 @@
       text-decoration: none;
     }
 
+    /* Theme Switcher */
+    .theme-switcher {
+      display: flex;
+      gap: 0.5rem;
+      background: var(--switcher-bg);
+      padding: 0.5rem;
+      border-radius: 8px;
+    }
+
+    .theme-switcher button {
+      background: none;
+      border: none;
+      padding: 0.5rem 1rem;
+      cursor: pointer;
+      color: var(--switcher-text);
+      border-radius: 6px;
+      font-family: var(--serif);
+      transition: all 0.3s ease;
+    }
+
+    .theme-switcher button.active {
+      background: var(--accent);
+      color: white;
+    }
+
     /* Main Content */
     main {
       padding: 4rem;
       max-width: 1200px;
-      margin: 0 auto;
+      margin: 8rem auto 0; /* Offset for fixed header */
     }
 
     h1 {
@@ -147,13 +186,35 @@
       text-align: center;
       color: var(--text-light);
     }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      header, main, footer {
+        padding: 1rem;
+      }
+      main {
+        margin-top: 6rem;
+      }
+      .theme-switcher {
+        gap: 0.25rem;
+      }
+      .theme-switcher button {
+        padding: 0.25rem 0.5rem;
+        font-size: 0.9rem;
+      }
+    }
   </style>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300;400;600&display=swap" media="print" onload="this.media='all'">
+  <link rel="stylesheet" href="https://www.thingylabs.io/fonts.css" media="print" onload="this.media='all'">
 </head>
 <body>
   <header>
     <div class="logo">
       <a href="{{ site.baseurl }}/">Thingylabs</a>
+    </div>
+    <div class="theme-switcher">
+      <button data-theme="light">Light</button>
+      <button data-theme="auto" class="active">Auto</button>
+      <button data-theme="dark">Dark</button>
     </div>
   </header>
   <main>
@@ -162,5 +223,31 @@
   <footer>
     <p>© 2025 Thingylabs GmbH. All rights reserved.</p>
   </footer>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const root = document.documentElement;
+      const buttons = document.querySelectorAll('.theme-switcher button');
+      
+      // Load saved theme or default to 'auto'
+      const savedTheme = localStorage.getItem('theme') || 'auto';
+      setTheme(savedTheme);
+
+      buttons.forEach(button => {
+        button.addEventListener('click', () => {
+          const theme = button.dataset.theme;
+          setTheme(theme);
+          localStorage.setItem('theme', theme);
+        });
+      });
+
+      function setTheme(theme) {
+        root.setAttribute('data-theme', theme);
+        buttons.forEach(btn => {
+          btn.classList.toggle('active', btn.dataset.theme === theme);
+        });
+      }
+    });
+  </script>
 </body>
 </html>
