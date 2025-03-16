@@ -57,8 +57,23 @@ Follow the [Supplement Protocol](/thingylabs-performance-initiative/docs/s1-supp
 
 ## Study Timeline
 - **Study Duration**: 8 weeks
-- **Start Date**: [Insert Start Date]
-- **End Date**: [Insert End Date]
+- **Start Date**: <span class="write-in">____________________</span>
+- **End Date**: <span class="write-in">____________________</span>
 - **Weekly Submissions**: Due every Sunday by 11:59 PM
 
 Thank you for participating in the Thingylabs Performance Initiative Study 1. Your contributions will help advance evidence-based practices in nutritional and physical health strategies for workplace well-being and productivity.
+
+<div class="print-consent">
+  <p>I understand the study requirements and agree to participate:</p>
+  <p class="write-in-line"></p>
+  <p>Date: <span class="write-in">____________________</span></p>
+</div>
+
+---
+
+*For questions or to exercise your GDPR rights, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).*
+
+---
+
+### License
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). © D3velop Ltd (In Gründung) – Licensed to Thingylabs GmbH.
