@@ -3,6 +3,7 @@ layout: default
 title: Thingylabs Performance Initiative
 ---
 
+<!-- index.md -->
 ![Thingylabs GmbH Logo]({{ site.logo }} "Thingylabs GmbH Logo" style="width: 200px; margin: 0 auto; display: block;")
 
 Welcome to the *Thingylabs Performance Initiative* repository, supporting our scientific campaign, “Peak Performance through Health at Thingylabs GmbH,” and related outreach efforts to promote our high-performance, innovative software and cloud development environment through nutritional and physical health strategies.

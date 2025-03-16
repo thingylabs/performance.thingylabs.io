@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ownership and Licensing
+---
+
 <!-- ownership-and-licensing.md -->
 # Ownership and Licensing
 

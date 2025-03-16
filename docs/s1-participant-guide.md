@@ -1,5 +1,10 @@
+---
+layout: default
+title: Study 1 Participant Guide
+---
+
 <!-- docs/s1-participant-guide.md -->
-# Thingylabs Study 1 Weekly Sheet
+# Study 1 Participant Guide
 
 ## Welcome
 Use this weekly sheet to track your use of nutritional/physical health substances and report on well-being, energy, productivity, and sleep for our study at Thingylabs GmbH. Owned by D3velop Ltd, licensed to Thingylabs GmbH. Print this weekly, starting [insert start date], and fill it out daily for substances, then complete the end-of-week questions. Anonymous by default (GDPR-compliant).

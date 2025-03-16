@@ -1,3 +1,8 @@
+---
+layout: default
+title: GDPR Compliance
+---
+
 <!-- gdpr-compliance.md -->
 # GDPR Compliance
 

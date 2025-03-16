@@ -1,5 +1,10 @@
+---
+layout: default
+title: Study 1 Entry Survey
+---
+
 <!-- surveys/s1-entry-survey.md -->
-# Thingylabs Performance Initiative 1-Entry Survey
+# Study 1 Entry Survey
 
 ## Instructions for Use
 This survey is the initial data collection (Survey #1) for our scientific study on how nutritional and physical health strategies (e.g., ergogenic aids, energy availability, recovery optimization) influence employee health, cognitive performance, and workplace productivity at Thingylabs GmbH. It can be conducted as either **anonymous** or **non-anonymous**, depending on your needs. Follow the steps below to customize it for your team.

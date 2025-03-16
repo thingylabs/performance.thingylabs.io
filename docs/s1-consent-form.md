@@ -1,5 +1,10 @@
+---
+layout: default
+title: Study 1 Consent Form
+---
+
 <!-- docs/s1-consent-form.md -->
-# Consent Form
+# Study 1 Consent Form
 
 ## Overview
 The Thingylabs Performance Initiative includes a **dual-use Information and Consent Form** for employees to participate in the campaign, targeting health, focus, and productivity through targeted health measures. This form can be adapted for both **anonymous** and **non-anonymous** participation, depending on your needs.

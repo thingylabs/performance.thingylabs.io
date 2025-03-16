@@ -1,5 +1,10 @@
+---
+layout: default
+title: Study 1 Supplement Protocol
+---
+
 <!-- docs/s1-supplement-protocol.md -->
-# Thingylabs Performance Initiative Study 1 Supplement Protocol
+# Study 1 Supplement Protocol
 
 ## Overview
 This protocol details the nutritional supplement strategy for Study 1 at Thingylabs GmbH, owned by D3velop Ltd (In Gründung) in Seychelles and licensed to Thingylabs GmbH. It supports our investigation into employee well-being, cognitive performance, and productivity, adhering to Sports and Nutritional Sciences standards.
