@@ -5,8 +5,6 @@ subheading: Track your supplement intake daily (Monday–Sunday) and answer the 
 ---
 
 <!-- surveys/s1-daily-tracker.md -->
-# Study 1 Daily Tracker
-
 ## Participant Identification
 To track your progress across multiple surveys without collecting personally identifying information, please use your pseudonymous code. This code links your responses across different surveys while maintaining your anonymity.
 
