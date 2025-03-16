@@ -1,13 +1,7 @@
 # Thingylabs Performance Initiative
 
-<div style="text-align: center; background-color: #f0f4f8; padding: 20px; border-radius: 8px; margin-bottom: 20px;">
-  <p style="font-size: 1.2em; color: #1f2937; margin: 0;">
-    <strong>Start here:</strong> Visit the official website for a user-friendly introduction to the Thingylabs Performance Initiative.
-  </p>
-  <a href="https://thingylabs.github.io/thingylabs-performance-initiative/" style="display: inline-block; margin-top: 10px; padding: 10px 20px; background-color: #2563eb; color: #ffffff; text-decoration: none; border-radius: 4px; font-weight: bold;">
-    Go to Website
-  </a>
-</div>
+## 🚀 **Start Here**  
+> Visit the [official website](https://thingylabs.github.io/thingylabs-performance-initiative/) for a user-friendly introduction to the Thingylabs Performance Initiative.  
 
 ![Thingylabs GmbH Logo](https://www.thingylabs.io/logo-with-text.png "Thingylabs GmbH Logo" style="width: 200px; margin: 0 auto; display: block;")
 
