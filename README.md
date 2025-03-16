@@ -3,32 +3,29 @@
 
 ![Thingylabs GmbH Logo](https://www.thingylabs.io/logo-with-text.png "Thingylabs GmbH Logo")
 
-Welcome to the *Thingylabs Performance Initiative* repository, supporting our health campaign, “Peak Performance through Health at Thingylabs GmbH,” and related outreach efforts to promote our high-performance, innovative software and cloud development environment.
+Welcome to the *Thingylabs Performance Initiative* repository, supporting our scientific campaign, “Peak Performance through Health at Thingylabs GmbH,” and related outreach efforts to promote our high-performance, innovative software and cloud development environment through nutritional and physical health strategies.
 
 ## Table of Contents
 - [Purpose](#purpose)
-- [Contents](#contents)
+- [Structure](#structure)
 - [GDPR Compliance](#gdpr-compliance)
 - [Ownership and Licensing](#ownership-and-licensing)
 - [Contact](#contact)
 - [License](#license)
 
 ## Purpose
-This initiative, owned by D3velop Ltd (In Gründung) in Seychelles and licensed to Thingylabs GmbH, aims to enhance employee health, focus, and productivity through targeted health measures while positioning Thingylabs GmbH as a leader in the tech community. It includes:
-- A dual-use Information and Consent Form for employee participation (anonymous and non-anonymous, PII-free in this repository).
-- Dual-use survey templates for anonymous and non-anonymous feedback to evaluate campaign effectiveness.
-- Branding assets and outreach materials for external stakeholders.
+This initiative, owned by D3velop Ltd (In Gründung) in Seychelles and licensed to Thingylabs GmbH, aims to enhance employee physiological and psychological well-being, cognitive performance, and workplace productivity through evidence-based nutritional and physical health strategies (e.g., energy availability, macronutrient balance, ergogenic aids, recovery optimization) while positioning Thingylabs GmbH as a leader in the tech community. It includes scientific surveys, consent forms, branding assets, and outreach materials to advance research and promote our mission.
 
 This initiative is being developed into a proprietary commercial product for licensing or consulting services to other tech companies. For commercial inquiries or premium services, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).
 
-## Contents
-| File/Folder                  | Description                                      |
-|------------------------------|--------------------------------------------------|
-| [`docs/consent-form.md`](./docs/consent-form.md) | Dual-use Information and Consent Form for employees (anonymous and non-anonymous, PII-free in this repository). |
-| [`surveys/README.md`](./surveys/README.md)       | Overview of dual-use survey templates and instructions (anonymous and non-anonymous, PII-free in this repository). |
-| [`surveys/survey-template.md`](./surveys/survey-template.md) | Dual-use survey template for anonymous and non-anonymous use (PII-free in this repository). |
-| `branding/`                  | Guidelines for colors, typography, and design (Primary Blue `#2563eb`, `Crimson Pro` font). |
-| `outreach/`                  | Drafts for emails, social media posts, and other materials promoting the initiative (no PII). |
+## Structure
+The repository is organized into directories and files that support our scientific study and outreach efforts, including:
+- Surveys (e.g., numbered as 1-Entry Survey, 2-Follow-Up Survey, with sub-numbers like 1.1-Interim Survey) for anonymous and non-anonymous data collection on nutritional and physical health strategies.
+- Documentation on GDPR compliance, ownership, and licensing.
+- Branding guidelines for colors, typography, and design.
+- Outreach materials for emails, social media, and other promotional content.
+
+For detailed access to specific files, explore the `docs/`, `surveys/`, `branding/`, and `outreach/` directories directly.
 
 ## GDPR Compliance
 We process personal data in accordance with the General Data Protection Regulation (GDPR). Learn more in [gdpr-compliance.md](gdpr-compliance.md).
