@@ -4,8 +4,6 @@ title: GDPR Compliance
 ---
 
 <!-- gdpr-compliance.md -->
-# GDPR Compliance
-
 ## Overview
 We process data in accordance with the General Data Protection Regulation (GDPR) for the Thingylabs Performance Initiative, which includes targeted health measures to enhance employee health, focus, and productivity.
 
