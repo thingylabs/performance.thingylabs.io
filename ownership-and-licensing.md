@@ -1,4 +1,3 @@
-// ownership-and-licensing.md
 <!-- ownership-and-licensing.md -->
 # Ownership and Licensing
 

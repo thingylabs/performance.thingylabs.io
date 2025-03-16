@@ -1,4 +1,4 @@
-// gdpr-compliance.md
+<!-- gdpr-compliance.md -->
 # GDPR Compliance
 
 ## Overview

@@ -1,4 +1,4 @@
-// surveys/s1-daily-tracker.m.md
+<!-- surveys/s1-daily-tracker.m.md -->
 ### Monday
 | Substance                  | Taken Today? | Custom Dose (e.g., pills, drops) |
 |----------------------------|---------------|----------------------------------|

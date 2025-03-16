@@ -1,4 +1,4 @@
-// docs/s1-outline.md
+<!-- docs/s1-outline.md -->
 # Thingylabs Performance Initiative Study 1 Outline
 
 ## Overview

@@ -12,7 +12,7 @@ async function addPathComments(rootDir: string) {
   })) {
     const filePath = entry.path;
     const relPath = relative(resolvedRoot, filePath);
-    const comment = `// ${relPath}\n`;
+    const comment = `<!-- ${relPath} -->\n`;
 
     try {
       const content = await Deno.readTextFile(filePath);
@@ -23,7 +23,7 @@ async function addPathComments(rootDir: string) {
       }
 
       const lines = content.split('\n');
-      while (lines.length > 0 && (lines[0].trim() === '' || lines[0].trim().startsWith('//'))) {
+      while (lines.length > 0 && (lines[0].trim() === '' || lines[0].trim().startsWith('<!--'))) {
         lines.shift();
       }
 
@@ -33,7 +33,7 @@ async function addPathComments(rootDir: string) {
       await Deno.writeTextFile(filePath, newContent);
       console.log(`Updated comment in ${relPath}`);
     } catch (err) {
-      const error = err as Error
+      const error = err as Error;
       console.error(`Error processing ${relPath}: ${error.message}`);
     }
   }
@@ -45,7 +45,7 @@ if (import.meta.main) {
     await addPathComments(rootDir);
     console.log('Finished adding file path comments');
   } catch (err) {
-    const error = err as Error
+    const error = err as Error;
     console.error('Error:', error.message);
     Deno.exit(1);
   }

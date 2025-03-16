@@ -1,4 +1,4 @@
-// docs/s1-participant-guide.md
+<!-- docs/s1-participant-guide.md -->
 # Thingylabs Study 1 Weekly Sheet
 
 ## Welcome

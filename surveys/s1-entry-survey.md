@@ -1,4 +1,4 @@
-// surveys/s1-entry-survey.md
+<!-- surveys/s1-entry-survey.md -->
 # Thingylabs Performance Initiative 1-Entry Survey
 
 ## Instructions for Use

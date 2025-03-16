@@ -1,4 +1,4 @@
-// docs/s1-facilitator-guide.md
+<!-- docs/s1-facilitator-guide.md -->
 # Thingylabs Performance Initiative Consent Form
 
 ## Consent and Disclaimer for Thingylabs GmbH Employees

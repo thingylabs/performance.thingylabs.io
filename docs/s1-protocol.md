@@ -1,4 +1,4 @@
-// docs/s1-protocol.md
+<!-- docs/s1-protocol.md -->
 # Thingylabs Performance Initiative Study 1 Protocol
 
 ## Overview
