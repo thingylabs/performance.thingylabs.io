@@ -1,13 +1,11 @@
 ---
 layout: default
 title: Study 1 Participant Guide
+subheading: Use this weekly sheet to track your use of nutritional/physical health substances and report on well-being, energy, productivity, and sleep for our study at Thingylabs GmbH. Owned by D3velop Ltd, licensed to Thingylabs GmbH. Print this weekly, starting [insert start date], and fill it out daily for substances, then complete the end-of-week questions. Anonymous by default (GDPR-compliant).
 ---
 
 <!-- docs/s1-participant-guide.md -->
 # Study 1 Participant Guide
-
-## Welcome
-Use this weekly sheet to track your use of nutritional/physical health substances and report on well-being, energy, productivity, and sleep for our study at Thingylabs GmbH. Owned by D3velop Ltd, licensed to Thingylabs GmbH. Print this weekly, starting [insert start date], and fill it out daily for substances, then complete the end-of-week questions. Anonymous by default (GDPR-compliant).
 
 ## Daily Substance Tracking (Monday–Sunday)
 Fill out each day for the substances below. Check the box after taking, and write your custom dose (e.g., pills, drops). Follow packaging unless you choose otherwise. See the [Supplement Protocol](s1-supplement-protocol) for details on the substances included in this study.

@@ -1,12 +1,11 @@
 ---
 layout: default
 title: Study 1 Documents
+subheading: Resources for Study 1 at Thingylabs GmbH:
 ---
 
 <!-- docs/index.md -->
 # Study 1 Documents
-
-Resources for Study 1 at Thingylabs GmbH:
 
 - [Consent Form](/thingylabs-performance-initiative/docs/s1-consent-form) - Participation agreement and legal details.
 - [Supplement Protocol](/thingylabs-performance-initiative/docs/s1-supplement-protocol) - Details on supplements and procedures.

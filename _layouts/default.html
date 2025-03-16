@@ -179,6 +179,16 @@
       font-weight: 400;
     }
 
+    /* Hero Subtitle */
+    .hero-subtitle {
+      font-size: clamp(1.25rem, 2vw, 1.5rem);
+      color: var(--text-light);
+      max-width: 60ch;
+      margin-bottom: 3rem;
+      font-weight: 400;
+      line-height: 1.6;
+    }
+
     /* Footer */
     footer {
       padding: 4rem;
@@ -274,6 +284,11 @@
         color: #000000; /* Black headings */
         page-break-after: avoid; /* Avoid breaking after headings */
       }
+      .hero-subtitle {
+        color: #000000; /* Black text for print */
+        font-size: 14pt; /* Slightly larger for print */
+        margin-bottom: 1.5rem; /* Adjust spacing for print */
+      }
       table {
         page-break-inside: avoid; /* Keep tables intact */
       }
@@ -317,6 +332,10 @@
     </div>
   </header>
   <main>
+    <h1>{{ page.title }}</h1>
+    {% if page.subheading %}
+      <p class="hero-subtitle">{{ page.subheading }}</p>
+    {% endif %}
     {{ content }}
   </main>
   <footer>

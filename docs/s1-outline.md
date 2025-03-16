@@ -1,13 +1,11 @@
 ---
 layout: default
 title: Study 1 Facilitator Protocol
+subheading: This outline defines the scope and structure of Study 1 at Thingylabs GmbH, owned by D3velop Ltd (In Gründung) and licensed to Thingylabs GmbH. It investigates nutritional supplements to enhance employee physiological and psychological well-being, cognitive performance, and workplace productivity.
 ---
 
 <!-- docs/study-1-outline.md -->
 # Study 1 Outline
-
-## Overview
-This outline defines the scope and structure of Study 1 at Thingylabs GmbH, owned by D3velop Ltd (In Gründung) and licensed to Thingylabs GmbH. It investigates nutritional supplements to enhance employee physiological and psychological well-being, cognitive performance, and workplace productivity.
 
 ## Objectives
 - Evaluate the impact of supplements on employee health and performance.

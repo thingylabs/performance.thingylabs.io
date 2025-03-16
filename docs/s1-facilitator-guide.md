@@ -1,13 +1,11 @@
 ---
 layout: default
 title: Study 1 Facilitator Guide
+subheading: This guide outlines the responsibilities and procedures for facilitators managing Study 1 at Thingylabs GmbH, owned by D3velop Ltd and licensed to Thingylabs GmbH. It supports our investigation into nutritional supplements to enhance employee well-being, cognitive performance, and productivity.
 ---
 
 <!-- docs/study-1-facilitator-guide.md -->
 # Study 1 Facilitator Guide
-
-## Overview
-This guide outlines the responsibilities and procedures for facilitators managing Study 1 at Thingylabs GmbH, owned by D3velop Ltd and licensed to Thingylabs GmbH. It supports our investigation into nutritional supplements to enhance employee well-being, cognitive performance, and productivity.
 
 ## Responsibilities
 - **Preparation**: Review the [Supplement Protocol](s1-supplement-protocol) to understand the supplements and study goals.
