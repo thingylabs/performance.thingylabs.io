@@ -1,14 +1,10 @@
 ---
 layout: default
 title: Ownership and Licensing
+subheading: The intellectual property of the Thingylabs Performance Initiative, including all materials in this repository, is owned by <b>D3velop Ltd (In Gründung)</b> in Seychelles and licensed to <b>Thingylabs GmbH</b> for use in the “Peak Performance through Health” campaign.
 ---
 
 <!-- ownership-and-licensing.md -->
-# Ownership and Licensing
-
-## Ownership
-The intellectual property of the Thingylabs Performance Initiative, including all materials in this repository, is owned by **D3velop Ltd (In Gründung)** in Seychelles and licensed to **Thingylabs GmbH** for use in the “Peak Performance through Health” campaign.
-
 ## Licensing
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). You are free to:
 - **Share**: Copy and redistribute the material in any medium or format.
