@@ -27,13 +27,19 @@ These comply with Germany/EU and Seychelles health regulations, with no specific
 
 ## Procedures
 - **Usage**: Participants adopt these supplements over 12 months, choosing intake amounts (follow packaging or adjust as preferred).
-- **Tracking**: Use the [Daily Tracker](surveys/s1-daily-tracker) to log intake daily and answer end-of-week questions.
+- **Tracking**: Use the [Daily Tracker](surveys/s1-daily-tracker) to log intake daily and answer end-of-week questions using your participant code.
+- **Data Collection**: When reporting supplement usage or effects, use only your participant code for identification.
 
 ## Notes
 - For multivitamin guidance, see: [All About Vitamins & Minerals](https://www.precisionnutrition.com/all-about-vitamins-minerals).
 - For protein powder guidance, see: [All About Protein Powders](https://www.precisionnutrition.com/all-about-protein-powders).
 - For general supplement advice, see: [3 Supplements I Recommend](https://www.precisionnutrition.com/3-supplements-i-recommend).
-- Contact [performance@thingylabs.io](mailto:performance@thingylabs.io) for questions.
+- For information on how your data is handled, see: [GDPR Compliance](/thingylabs-performance-initiative/gdpr-compliance).
+- Contact [performance@thingylabs.io](mailto:performance@thingylabs.io) for questions or to report adverse reactions.
 
 ## Limitations
 - Small sample size (n=2 initially) limits generalizability but serves as a pilot for scaling.
+
+---
+
+*For questions or to exercise your GDPR rights, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).*
