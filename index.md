@@ -63,7 +63,3 @@ We take data protection seriously. Our approach includes:
 - No collection of directly identifying information
 - Secure storage on encrypted servers
 - Clear processes for participants to exercise their GDPR rights
-
-
-### License
-This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). © D3velop Ltd (In Gründung) – Licensed to Thingylabs GmbH.
