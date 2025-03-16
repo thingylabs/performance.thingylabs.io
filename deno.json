@@ -1,5 +1,8 @@
 {
     "compilerOptions": {
       "lib": ["deno.ns", "deno.window"]
+    },
+    "tasks": {
+      "add-path": "deno run --allow-read --allow-write add-path-comments.ts"
     }
   }
