@@ -5,8 +5,6 @@ subheading: This survey is the initial data collection (Survey 1) for our scient
 ---
 
 <!-- surveys/s1-entry-survey.md -->
-# Study 1 Entry Survey
-
 ### For Anonymous Surveys
 1. Remove or skip the **Consent Statement** and **PII Questions** sections.
 2. Ensure no personally identifying information (PII) is collected.
