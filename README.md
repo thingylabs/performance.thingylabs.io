@@ -1,7 +1,7 @@
 # Thingylabs Performance Initiative
 
 ## 🚀 **Start Here**  
-> ↪ Visit the [official website](https://thingylabs.github.io/thingylabs-performance-initiative/) for a user-friendly introduction to the Thingylabs Performance Initiative.  
+> ↪ **Visit the [official website](https://thingylabs.github.io/thingylabs-performance-initiative/) for a user-friendly introduction to the Thingylabs Performance Initiative.**  
 
 Welcome to the *Thingylabs Performance Initiative* repository, supporting our scientific campaign, “Peak Performance through Health at Thingylabs GmbH,” and related outreach efforts to promote our high-performance, innovative software and cloud development environment through nutritional and physical health strategies.
 
