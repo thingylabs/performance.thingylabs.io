@@ -1,37 +1,52 @@
 ---
 layout: default
 title: Study 1 Consent Form
-subheading: The Thingylabs Performance Initiative includes a <b>dual-use Information and Consent Form</b> for employees to participate in the campaign, targeting health, focus, and productivity through targeted health measures. This form can be adapted for both <b>anonymous</b> and <b>non-anonymous</b> participation, depending on your needs.
+subheading: This consent form is required for participation in the Thingylabs Performance Initiative study, which investigates how nutritional and physical health strategies influence employee well-being, cognitive performance, and workplace productivity.
 ---
 
 <!-- docs/s1-consent-form.md -->
 # Study 1 Consent Form
 
-## Instructions
-### For Anonymous Participation
-1. Use the form as-is, skipping the **PII Section**.
-2. Collect signed forms securely (not stored in this repository).
-3. Ensure compliance with GDPR guidelines.
+## Pseudonymous Participation
+This study uses a pseudonymous approach to protect your privacy while allowing us to track your progress across multiple surveys. You will create a unique participant code that you'll use throughout the study instead of providing your name or other directly identifying information.
 
-### For Non-Anonymous Participation
-1. Use the form as-is, including the **PII Section**.
-2. Collect signed forms securely and store PII in compliance with GDPR.
-3. Ensure participants understand their rights under GDPR.
+## Participant Information
+- **Participant Code**: TL-_________________ (Create your code using format: TL-YYYYMM-XXX)
+- **Date**: _________________________
 
----
+## Study Information
+The Thingylabs Performance Initiative is a scientific study investigating how nutritional and physical health strategies (e.g., ergogenic aids, energy availability, recovery optimization) influence employee health, cognitive performance, and workplace productivity. The study involves:
 
-## Dual-Use Consent Form Structure
-### PII Section (For Non-Anonymous Participation)
-- **Name**: _________________________
-- **Email**: _________________________
+- Completing an entry survey
+- Tracking supplement intake daily for 8 weeks
+- Completing weekly assessments of well-being, energy, productivity, and sleep
+- Completing an exit survey
 
-### Consent Statement
-I agree to participate in the Thingylabs Performance Initiative, which includes targeted health measures to enhance my health, focus, and productivity. For non-anonymous participation, I consent to the collection and processing of my personally identifying information (PII) in compliance with GDPR. I understand that I may withdraw my consent at any time and that my data will be deleted 12 months after the campaign ends unless I agree otherwise.
+## Consent Statement
+By signing this form, I confirm that:
 
-### Signature
+1. I have read and understood the information about the study
+2. I understand that my participation is voluntary and I can withdraw at any time
+3. I agree to create and use a pseudonymous participant code for all study materials
+4. I consent to the collection and processing of health-related data for scientific research purposes
+5. I understand that my data will be stored securely and processed in compliance with GDPR
+6. I understand that my data will be retained for 12 months after the study concludes, after which it will be anonymized or deleted
+7. I agree that anonymized or aggregated results may be used in scientific publications or presentations
+
+## Signature
 - **Signature**: _________________________
 - **Date**: _________________________
+
+## Data Protection
+Your data will be processed in accordance with the General Data Protection Regulation (GDPR). You have the right to access, rectify, erase, restrict, object to processing, and request portability of your data. To exercise these rights, please contact us with your participant code.
+
+For more information about how your data will be processed, please see our [GDPR Compliance](/thingylabs-performance-initiative/gdpr-compliance) page.
 
 ---
 
 *For questions, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).*
+
+---
+
+### License
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). © D3velop Ltd (In Gründung) – Licensed to Thingylabs GmbH.
