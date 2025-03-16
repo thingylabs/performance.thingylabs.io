@@ -64,20 +64,6 @@ We take data protection seriously. Our approach includes:
 - Secure storage on encrypted servers
 - Clear processes for participants to exercise their GDPR rights
 
-## GDPR Compliance
-We process data in accordance with the General Data Protection Regulation (GDPR). All data collection is pseudonymous, using participant codes rather than directly identifying information. For complete details on our data protection practices, legal basis for processing, and your rights, please see our [GDPR Compliance](/thingylabs-performance-initiative/gdpr-compliance) page.
-
-## Ownership and Licensing
-Owned by D3velop Ltd (In Gründung) and licensed to Thingylabs GmbH. Learn more in [Ownership and Licensing](/thingylabs-performance-initiative/ownership-and-licensing).
-
-## Contact
-For inquiries about the campaign, data protection, outreach, or commercial opportunities, email [performance@thingylabs.io](mailto:performance@thingylabs.io) or call [+49 711 968 814 61](tel:+4971196881461).
-
----
-
-*For questions or to exercise your GDPR rights, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).*
-
----
 
 ### License
 This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). © D3velop Ltd (In Gründung) – Licensed to Thingylabs GmbH.
