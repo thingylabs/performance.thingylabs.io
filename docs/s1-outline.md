@@ -5,8 +5,6 @@ subheading: This outline defines the scope and structure of Study 1 at Thingylab
 ---
 
 <!-- docs/study-1-outline.md -->
-# Study 1 Outline
-
 ## Objectives
 - Evaluate the impact of supplements on employee health and performance.
 - Collect data to identify effective strategies for well-being and productivity.
