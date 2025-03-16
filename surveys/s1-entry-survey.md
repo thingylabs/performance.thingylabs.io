@@ -1,42 +1,35 @@
 ---
 layout: default
 title: Study 1 Entry Survey
-subheading: This survey is the initial data collection (Survey 1) for our scientific study on how nutritional and physical health strategies (e.g., ergogenic aids, energy availability, recovery optimization) influence employee health, cognitive performance, and workplace productivity at Thingylabs GmbH. It can be conducted as either <b>anonymous</b> or <b>non-anonymous</b>, depending on your needs. Follow the steps below to customize it for your team.
+subheading: This survey is the initial data collection (Survey 1) for our scientific study on how nutritional and physical health strategies (e.g., ergogenic aids, energy availability, recovery optimization) influence employee health, cognitive performance, and workplace productivity at Thingylabs GmbH. All responses are collected pseudonymously to protect your privacy while allowing us to track your progress across multiple surveys.
 ---
 
 <!-- surveys/s1-entry-survey.md -->
-### For Anonymous Surveys
-1. Remove or skip the **Consent Statement** and **PII Questions** sections.
-2. Ensure no personally identifying information (PII) is collected.
-3. Share the survey link with participants.
+# Study 1 Entry Survey
 
-### For Non-Anonymous Surveys
-1. Include the **Consent Statement** and **PII Questions** sections.
-2. Ensure participants provide explicit consent for PII collection.
-3. Store PII securely and process it in compliance with GDPR.
+## Participant Identification
+To track your progress across multiple surveys without collecting personally identifying information, please use the pseudonymous code below. This code will be used to link your responses across different surveys while maintaining your anonymity.
 
----
-
-## Consent Statement (For Non-Anonymous Surveys)
-By participating in this 1-Entry Survey, you agree to provide personally identifying information (PII) to contribute to our scientific research on the Thingylabs Performance Initiative, which investigates nutritional and physical health strategies to enhance health, cognitive performance, and productivity. Your data will be processed in compliance with GDPR, stored securely, and deleted 12 months after the study concludes unless you agree otherwise. You may withdraw your consent at any time.
-
-<p class="print-consent">
-□ I consent to participate in this non-anonymous survey (check box)
-</p>
-
----
-
-## PII Questions (For Non-Anonymous Surveys)
 <table>
   <tr>
-    <td><strong>Name</strong></td>
-    <td class="write-in">________________________________</td>
+    <td><strong>Participant Code</strong></td>
+    <td class="write-in">TL-{{ site.time | date: '%Y%m' }}-_______</td>
   </tr>
   <tr>
-    <td><strong>Email</strong></td>
-    <td class="write-in">________________________________</td>
+    <td colspan="2" class="note">
+      <em>Please add a unique 3-digit number that you'll remember (e.g., TL-202311-123). Use the same code for all surveys in this study.</em>
+    </td>
   </tr>
 </table>
+
+---
+
+## Consent Statement
+By participating in this survey, you agree to contribute to our scientific research on the Thingylabs Performance Initiative, which investigates nutritional and physical health strategies to enhance health, cognitive performance, and productivity. Your data will be collected pseudonymously (using your participant code), processed in compliance with GDPR, stored securely, and deleted 12 months after the study concludes. You may withdraw your consent at any time.
+
+<p class="print-consent">
+□ I consent to participate in this pseudonymous survey (check box)
+</p>
 
 ---
 
