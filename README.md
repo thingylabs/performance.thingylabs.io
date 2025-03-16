@@ -34,7 +34,7 @@ Explore these directories for what you need:
 
 - Check the study plans and guides in `docs/` to get started.
 - Share the participant guides from `docs/` with your group.
-- Hand out the weekly sheets from `surveys/` for daily tracking.
+- Hand out the daily tracking sheets from `surveys/` for participants to log each day over the week.
 - Collect completed sheets at the end of each week.
 
 ## GDPR Compliance
