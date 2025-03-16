@@ -4,10 +4,6 @@
 ## Overview
 The Thingylabs Performance Initiative includes a **dual-use Information and Consent Form** for employees to participate in the campaign. This form can be adapted for both **anonymous** and **non-anonymous** participation, depending on your needs.
 
-## Access
-- [Download the Dual-Use PDF Version](./docs/consent-form.pdf)
-- [View the Markdown Source](./docs/consent-form.md)
-
 ## Instructions
 ### For Anonymous Participation
 1. Use the form as-is, skipping the **PII Section**.
