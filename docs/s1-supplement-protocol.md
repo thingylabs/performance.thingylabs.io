@@ -19,7 +19,7 @@ Participants use these non-proprietary supplements at their discretion. Follow p
 - **Anthocyanins**: Aids recovery and well-being.  
   - *Get it here*: [Blueberry Extract on Amazon](https://www.amazon.de/gp/product/B01FLRR5KO?tag=thingylabs-20).
 - **Melatonin**: Improves sleep and recovery.  
-  - *Get it here*: [Melatonin on Amazon](https://www.amazon.de/gp/product/B09T2NTNL8?tag=thingylabs-20).
+  - *Get it here*: [Melatonin on Amazon](https://www.amazon.de/Vihado-Natur-Melatonin-hochdosiert-Innovation/dp/B0BYPFJFJZ?tag=thingylabs-20).
 
 These comply with Germany/EU and Seychelles health regulations, with no specific dosages or proprietary products required.
 
