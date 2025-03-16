@@ -5,8 +5,6 @@ subheading: This guide outlines the responsibilities and procedures for facilita
 ---
 
 <!-- docs/study-1-facilitator-guide.md -->
-# Study 1 Facilitator Guide
-
 ## Responsibilities
 - **Preparation**: Review the [Supplement Protocol](s1-supplement-protocol) to understand the supplements and study goals.
 - **Distribution**: Provide participants with the [Participant Guide](s1-participant-guide) and [Daily Tracker](surveys/s1-daily-tracker.md).
