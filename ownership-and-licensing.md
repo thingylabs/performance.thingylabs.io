@@ -18,10 +18,3 @@ No additional restrictions—You may not apply legal terms or technological meas
 
 ## Proprietary Assets
 The **Thingylabs GmbH logo** and the name **“Thingylabs GmbH”** are proprietary to Thingylabs GmbH and are not covered by this license. They may only be used for unaltered versions of the materials in this repository. Unauthorized commercial use, reproduction, modification, or distribution is prohibited without express written permission. © Thingylabs GmbH – All Rights Reserved.
-
-## Commercial Licensing
-For commercial licensing, premium services, or use of proprietary assets (e.g., the Thingylabs GmbH logo or name), contact [performance@thingylabs.io](mailto:performance@thingylabs.io).
-
----
-
-*For questions about ownership, licensing, or commercial opportunities, contact us at [performance@thingylabs.io](mailto:performance@thingylabs.io) or call [+49 711 968 814 61](tel:+4971196881461).*
