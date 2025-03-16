@@ -39,12 +39,3 @@ By signing this form, I confirm that:
 Your data will be processed in accordance with the General Data Protection Regulation (GDPR). You have the right to access, rectify, erase, restrict, object to processing, and request portability of your data. To exercise these rights, please contact us with your participant code.
 
 For more information about how your data will be processed, please see our [GDPR Compliance](/thingylabs-performance-initiative/gdpr-compliance) page.
-
----
-
-*For questions, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).*
-
----
-
-### License
-This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). © D3velop Ltd (In Gründung) – Licensed to Thingylabs GmbH.
