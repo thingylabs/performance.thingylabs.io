@@ -9,7 +9,8 @@ subheading: Welcome to the <i>Thingylabs Performance Initiative</i> repository, 
 ## Table of Contents
 - [Purpose](#purpose)
 - [Overview](#overview)
-- [Next Steps for Facilitators](#next-steps-for-facilitators)
+- [For Participants](#for-participants)
+- [For Facilitators](#for-facilitators)
 - [Data Protection](#data-protection)
 - [GDPR Compliance](#gdpr-compliance)
 - [Ownership and Licensing](#ownership-and-licensing)
@@ -33,13 +34,28 @@ Explore these directories:
 - **[`docs/`](/thingylabs-performance-initiative/docs)**: Study plans and instructions.
 - **[`surveys/`](/thingylabs-performance-initiative/surveys)**: Daily tracking sheets and surveys.
 
-## Next Steps for Facilitators
-- Check the [Supplement Protocol](/thingylabs-performance-initiative/docs/s1-supplement-protocol) and [Participant Guide](/thingylabs-performance-initiative/docs/s1-participant-guide) to get started.
-- Review the [GDPR Compliance](/thingylabs-performance-initiative/gdpr-compliance) page to understand our data protection approach.
-- Share participant guides with your group.
-- Ensure each participant creates their unique participant code (e.g., TL-202311-123).
-- Hand out the [Daily Tracker](/thingylabs-performance-initiative/surveys/s1-daily-tracker) for daily logging over the week.
-- Collect completed sheets weekly, ensuring participant codes are used instead of names.
+## For Participants
+Follow these steps to participate in the study:
+
+1. **Read the guide**: Review the [Participant Guide](/thingylabs-performance-initiative/docs/s1-participant-guide) to understand the study.
+2. **Create your code**: Generate a unique participant code (e.g., TL-202311-123) that you'll use throughout the study.
+3. **Review supplements**: Check the [Supplement Protocol](/thingylabs-performance-initiative/docs/s1-supplement-protocol) to understand the recommended supplements.
+4. **Track daily**: Use the [Daily Tracker](/thingylabs-performance-initiative/surveys/s1-daily-tracker) to log your supplement intake and experiences each day.
+5. **Complete weekly questions**: Answer the end-of-week questions each Sunday.
+6. **Submit your tracker**: Return your completed tracker to your facilitator each week.
+7. **Understand your rights**: Review the [GDPR Compliance](/thingylabs-performance-initiative/gdpr-compliance) page to understand how your data is protected.
+
+## For Facilitators
+Follow these steps to manage the study:
+
+1. **Understand the study**: Review the [Supplement Protocol](/thingylabs-performance-initiative/docs/s1-supplement-protocol) and [Study Outline](/thingylabs-performance-initiative/docs/study-1-outline).
+2. **Learn data protection**: Review the [GDPR Compliance](/thingylabs-performance-initiative/gdpr-compliance) page to understand our data protection approach.
+3. **Brief participants**: Share the [Participant Guide](/thingylabs-performance-initiative/docs/s1-participant-guide) with your group and explain the pseudonymous data collection process.
+4. **Explain participant codes**: Ensure each participant creates their unique participant code (e.g., TL-202311-123).
+5. **Distribute trackers**: Hand out the [Daily Tracker](/thingylabs-performance-initiative/surveys/s1-daily-tracker) for daily logging over the week.
+6. **Send reminders**: Remind participants to complete their daily logs and end-of-week questions.
+7. **Collect data**: Gather completed sheets weekly, ensuring participant codes are used instead of names.
+8. **Submit data**: Forward the collected data according to the protocol provided to you.
 
 ## Data Protection
 We take data protection seriously. Our approach includes:
