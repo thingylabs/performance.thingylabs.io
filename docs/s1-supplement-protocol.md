@@ -23,11 +23,6 @@ Participants use these non-proprietary supplements at their discretion. Follow p
 
 These comply with Germany/EU and Seychelles health regulations, with no specific dosages or proprietary products required.
 
-## Procedures
-- **Usage**: Participants adopt these supplements over 12 months, choosing intake amounts (follow packaging or adjust as preferred).
-- **Tracking**: Use the [Daily Tracker](surveys/s1-daily-tracker) to log intake daily and answer end-of-week questions using your participant code.
-- **Data Collection**: When reporting supplement usage or effects, use only your participant code for identification.
-
 ## Notes
 - For multivitamin guidance, see: [All About Vitamins & Minerals](https://www.precisionnutrition.com/all-about-vitamins-minerals).
 - For protein powder guidance, see: [All About Protein Powders](https://www.precisionnutrition.com/all-about-protein-powders).
