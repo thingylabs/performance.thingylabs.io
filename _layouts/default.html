@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+
+  <style>
+    :root {
+      /* Light Mode Colors */
+      --serif: 'Crimson Pro', Georgia, serif;
+      --accent: #2563eb;
+      --text: #1f2937;
+      --text-light: #666666;
+      --background: #ffffff;
+      --background-alt: #f8f9fa;
+      --border: #eee;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root[data-theme="auto"] {
+        --accent: #60a5fa;
+        --text: #e5e7eb;
+        --text-light: #9ca3af;
+        --background: #111827;
+        --background-alt: #1f2937;
+        --border: #374151;
+      }
+    }
+
+    :root[data-theme="dark"] {
+      --accent: #60a5fa;
+      --text: #e5e7eb;
+      --text-light: #9ca3af;
+      --background: #111827;
+      --background-alt: #1f2937;
+      --border: #374151;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html {
+      font-size: clamp(16px, 1.5vw, 18px);
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--serif);
+      line-height: 1.6;
+      color: var(--text);
+      background: var(--background);
+      transition: color 0.3s ease, background-color 0.3s ease;
+    }
+
+    /* Header */
+    header {
+      padding: 1.5rem 4rem;
+      background: var(--background);
+      border-bottom: 1px solid var(--border);
+      text-align: center;
+    }
+
+    .logo {
+      font-size: 1.125rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+    }
+
+    .logo a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    /* Main Content */
+    main {
+      padding: 4rem;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: clamp(2rem, 4vw, 3rem);
+      font-weight: 300;
+      color: var(--accent);
+      margin-bottom: 2rem;
+    }
+
+    h2 {
+      font-size: clamp(1.5rem, 3vw, 2.5rem);
+      font-weight: 300;
+      color: var(--accent);
+      margin-bottom: 1.5rem;
+    }
+
+    h3 {
+      font-size: 1.25rem;
+      font-weight: 400;
+      margin-bottom: 1rem;
+    }
+
+    p, li {
+      margin-bottom: 1rem;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+
+    a:hover {
+      color: var(--text-light);
+    }
+
+    ul {
+      list-style: disc;
+      margin-left: 2rem;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 2rem;
+    }
+
+    th, td {
+      padding: 0.75rem;
+      border: 1px solid var(--border);
+      text-align: left;
+    }
+
+    th {
+      background: var(--background-alt);
+      font-weight: 400;
+    }
+
+    /* Footer */
+    footer {
+      padding: 2rem 4rem;
+      background: var(--background-alt);
+      border-top: 1px solid var(--border);
+      text-align: center;
+      color: var(--text-light);
+    }
+  </style>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@300;400;600&display=swap" media="print" onload="this.media='all'">
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <a href="{{ site.baseurl }}/">Thingylabs</a>
+    </div>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>© 2025 Thingylabs GmbH. All rights reserved.</p>
+  </footer>
+</body>
+</html>

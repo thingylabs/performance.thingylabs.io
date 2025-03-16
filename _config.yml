@@ -1,16 +1,21 @@
+# Site Info
 title: Thingylabs Performance Initiative
 description: Peak Performance through Health at Thingylabs GmbH
-theme: minima
-markdown: kramdown
-permalink: pretty
 baseurl: "/thingylabs-performance-initiative"
 url: "https://thingylabs.github.io"
 
-# Custom settings
+# Theme and Styling
+theme: minima
+layout: default
 font: "Crimson Pro"
 colors:
   primary: "#2563eb"
   secondary: "#1f2937"
   background: "#ffffff"
-layout: minimal
 logo: "https://www.thingylabs.io/logo-with-text.png"
+
+# Jekyll Configuration
+include:
+  - docs
+  - surveys
+permalink: /:path/
