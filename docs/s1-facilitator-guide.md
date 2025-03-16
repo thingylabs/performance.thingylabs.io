@@ -38,12 +38,3 @@ subheading: This guide outlines the responsibilities and procedures for facilita
 ## Notes
 - No specific dosages are mandated—participants choose intake per packaging or preference.
 - Contact [performance@thingylabs.io](mailto:performance@thingylabs.io) for assistance or to report adverse reactions.
-
----
-
-*For questions or to exercise your GDPR rights, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).*
-
----
-
-### License
-This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). © D3velop Ltd (In Gründung) – Licensed to Thingylabs GmbH.
