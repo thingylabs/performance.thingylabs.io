@@ -22,37 +22,129 @@ subheading: This survey is the initial data collection (Survey 1) for our scient
 ## Consent Statement (For Non-Anonymous Surveys)
 By participating in this 1-Entry Survey, you agree to provide personally identifying information (PII) to contribute to our scientific research on the Thingylabs Performance Initiative, which investigates nutritional and physical health strategies to enhance health, cognitive performance, and productivity. Your data will be processed in compliance with GDPR, stored securely, and deleted 12 months after the study concludes unless you agree otherwise. You may withdraw your consent at any time.
 
+<p class="print-consent">
+□ I consent to participate in this non-anonymous survey (check box)
+</p>
+
 ---
 
 ## PII Questions (For Non-Anonymous Surveys)
-1. **Name**: [Text Input]
-2. **Email**: [Text Input]
+<table>
+  <tr>
+    <td><strong>Name</strong></td>
+    <td class="write-in">________________________________</td>
+  </tr>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td class="write-in">________________________________</td>
+  </tr>
+</table>
 
 ---
 
 ## Survey Questions
 ### Section 1: Nutritional and Physical Health (Hypothesis: Ergogenic Aids and Energy Availability Improve Well-being)
-1. **On a scale of 1 to 5, how would you rate your overall physiological and psychological well-being since adopting the initiative’s nutritional and physical health strategies (e.g., energy availability, recovery optimization)?**  
-   [Scale 1–5: 1 = Very Poor, 5 = Excellent]  
-   *(This quantifiable metric, using terms like “energy availability” and “recovery optimization,” tests the hypothesis that nutritional strategies enhance well-being, per Sports Nutrition standards—Web:1.)*
-
-2. **Have you experienced measurable improvements in your energy availability or recovery capacity (e.g., reduced fatigue, enhanced recovery)?**  
-   [Yes/No; If Yes, briefly describe in 50 characters or less]  
-   *(This binary question, with a concise qualitative follow-up, uses “energy availability” and “recovery capacity” to assess nutritional impact scientifically, feasible within time constraints—Web:0.)*
+<table>
+  <tr>
+    <td colspan="2">
+      <strong>1. On a scale of 1 to 5, how would you rate your overall physiological and psychological well-being since adopting the initiative's nutritional and physical health strategies (e.g., energy availability, recovery optimization)?</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="print-options">
+      Circle one: &nbsp;&nbsp; 1 - Very Poor &nbsp;&nbsp; 2 - Poor &nbsp;&nbsp; 3 - Neutral &nbsp;&nbsp; 4 - Good &nbsp;&nbsp; 5 - Excellent
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="note">
+      <em>(This quantifiable metric, using terms like "energy availability" and "recovery optimization," tests the hypothesis that nutritional strategies enhance well-being, per Sports Nutrition standards—Web:1.)</em>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>2. Have you experienced measurable improvements in your energy availability or recovery capacity (e.g., reduced fatigue, enhanced recovery)?</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="print-options">
+      Circle one: &nbsp;&nbsp; Yes &nbsp;&nbsp; No
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      If Yes, briefly describe in 50 characters or less:<br>  
+      <span class="write-in long">________________________________________________</span>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="note">
+      <em>(This binary question, with a concise qualitative follow-up, uses "energy availability" and "recovery capacity" to assess nutritional impact scientifically, feasible within time constraints—Web:0.)</em>
+    </td>
+  </tr>
+</table>
 
 ### Section 2: Cognitive Performance and Productivity (Hypothesis: Nutritional Strategies Boost Performance)
-3. **On a scale of 1 to 5, how has the initiative’s focus on nutritional strategies (e.g., macronutrient balance, ergogenic aids) influenced your daily work productivity?**  
-   [Scale 1–5: 1 = Significantly Decreased, 5 = Significantly Increased]  
-   *(This quantifiable metric, using “macronutrient balance” and “ergogenic aids,” tests the hypothesis that nutritional strategies enhance productivity, per Sports Nutrition—Web:1.)*
-
-4. **Have you noticed a consistent enhancement in your cognitive performance or mental alertness during work hours due to these strategies?**  
-   [Yes/No; If Yes, briefly describe in 50 characters or less]  
-   *(This binary question, with a concise qualitative follow-up, uses “cognitive performance” and “mental alertness” to assess scientific impact, aligned with Sports Sciences—Web:3.)*
+<table>
+  <tr>
+    <td colspan="2">
+      <strong>3. On a scale of 1 to 5, how has the initiative's focus on nutritional strategies (e.g., macronutrient balance, ergogenic aids) influenced your daily work productivity?</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="print-options">
+      Circle one: &nbsp;&nbsp; 1 - Significantly Decreased &nbsp;&nbsp; 2 - Slightly Decreased &nbsp;&nbsp; 3 - No Change &nbsp;&nbsp; 4 - Slightly Increased &nbsp;&nbsp; 5 - Significantly Increased
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="note">
+      <em>(This quantifiable metric, using "macronutrient balance" and "ergogenic aids," tests the hypothesis that nutritional strategies enhance productivity, per Sports Nutrition—Web:1.)</em>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <strong>4. Have you noticed a consistent enhancement in your cognitive performance or mental alertness during work hours due to these strategies?</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="print-options">
+      Circle one: &nbsp;&nbsp; Yes &nbsp;&nbsp; No
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      If Yes, briefly describe in 50 characters or less:<br>  
+      <span class="write-in long">________________________________________________</span>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="note">
+      <em>(This binary question, with a concise qualitative follow-up, uses "cognitive performance" and "mental alertness" to assess scientific impact, aligned with Sports Sciences—Web:3.)</em>
+    </td>
+  </tr>
+</table>
 
 ### Section 3: Scientific Feedback (Hypothesis: Specific Strategies Are Effective)
-5. **Which nutritional or physical health strategies (e.g., macronutrient balance, ergogenic aids, recovery optimization) do you believe most contributed to any observed improvements in your well-being or productivity?**  
-   [Text Area, max 150 characters]  
-   *(This concise qualitative question, using field-specific terms, gathers insights for hypothesis refinement, maintaining scientific rigor within time limits—Web:0.)*
+<table>
+  <tr>
+    <td colspan="2">
+      <strong>5. Which nutritional or physical health strategies (e.g., macronutrient balance, ergogenic aids, recovery optimization) do you believe most contributed to any observed improvements in your well-being or productivity?</strong>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <div class="write-in-box">
+        <span class="write-in-line">________________________________________________</span>
+        <span class="write-in-line">________________________________________________</span>
+        <span class="write-in-line">________________________________________________</span>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" class="note">
+      <em>(This concise qualitative question, using field-specific terms, gathers insights for hypothesis refinement, maintaining scientific rigor within time limits—Web:0.)</em>
+    </td>
+  </tr>
+</table>
 
 ---
 

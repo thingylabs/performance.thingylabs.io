@@ -162,6 +162,7 @@
       margin-left: 2rem;
     }
 
+    /* Tables */
     table {
       width: 100%;
       border-collapse: collapse;
@@ -245,18 +246,91 @@
       opacity: 0.8;
     }
 
+    /* Input Fields */
     input[type="checkbox"] {
       margin: 0;
       vertical-align: middle;
     }
 
-    input[type="text"] {
-      padding: 0.25rem;
-      border: 1px solid var(--border);
+    input[type="text"],
+    input[type="email"],
+    select,
+    textarea {
+      padding: 0.5rem;
+      border: 2px solid var(--accent); /* Higher contrast border */
       border-radius: 4px;
       font-family: var(--serif);
       font-size: 1rem;
-      width: 100px; /* Adjust as needed */
+      margin: 0.5rem 0;
+      width: 100%;
+      max-width: 400px; /* Adjust as needed */
+      background: var(--background);
+      color: var(--text);
+      transition: border-color 0.3s ease;
+    }
+
+    input[type="text"]:focus,
+    input[type="email"]:focus,
+    select:focus,
+    textarea:focus {
+      border-color: var(--text); /* Darker border on focus */
+      outline: none;
+    }
+
+    /* Larger Comment Input Fields */
+    .comment-input {
+      width: 100%;
+      max-width: 600px; /* Wider for handwriting */
+      height: 3rem; /* Taller for handwriting */
+      font-size: 1.25rem; /* Larger font size */
+    }
+
+    textarea.comment-input {
+      height: 100px; /* Taller for textarea */
+    }
+
+    /* Print-friendly form elements */
+    .write-in {
+      border-bottom: 1px solid var(--text);
+      min-width: 150px;
+      display: inline-block;
+      height: 1.5em;
+    }
+    
+    .write-in.long {
+      min-width: 300px;
+      width: 90%;
+    }
+    
+    .write-in-box {
+      border: 1px solid var(--border);
+      padding: 10px;
+      margin: 10px 0;
+    }
+    
+    .write-in-line {
+      display: block;
+      border-bottom: 1px solid var(--text);
+      margin-bottom: 15px;
+      height: 1.5em;
+      width: 100%;
+    }
+    
+    .print-options {
+      padding: 10px 0;
+    }
+    
+    .print-consent {
+      margin: 20px 0;
+    }
+    
+    .note {
+      font-size: 0.9em;
+      color: var(--text-light);
+    }
+    
+    .end-of-week p {
+      margin-bottom: 1.5rem;
     }
 
     /* Responsive */
@@ -304,6 +378,8 @@
         margin-bottom: 1.5rem; /* Adjust spacing for print */
       }
       table {
+        width: 100%;
+        border-collapse: collapse;
         page-break-inside: avoid; /* Keep tables intact */
       }
       th, td {
@@ -322,13 +398,73 @@
         font-size: 10pt;
         color: #666666;
       }
+      /* Don't print URLs for links in forms */
+      .hero-subtitle a[href]::after,
+      .end-of-week a[href]::after,
+      .note a[href]::after {
+        content: "";
+      }
       ul {
         margin-left: 1.5rem; /* Slightly less indent for print */
       }
+      
+      /* Hide notes in print version */
+      .note {
+        display: none;
+      }
+      
+      /* Add more space for writing */
+      .write-in {
+        border-bottom: 1px solid #000;
+        min-width: 150px;
+      }
+      
+      .write-in-box {
+        border: 1px solid #000;
+        min-height: 100px;
+      }
+      
+      .write-in-line {
+        border-bottom: 1px solid #000;
+        margin-bottom: 20px;
+      }
+      
+      /* Format the circle options better for print */
+      .print-options {
+        font-weight: normal;
+        line-height: 2;
+      }
+      
+      /* Ensure each day starts on a new page if needed */
+      h2 {
+        page-break-before: auto;
+        page-break-after: avoid;
+      }
+      
+      /* Keep the end-of-week questions together */
+      .end-of-week {
+        page-break-inside: avoid;
+        page-break-before: always;
+      }
+      
+      /* Make checkbox squares more visible when printed */
+      td:nth-child(2) {
+        text-align: center;
+        font-size: 16pt;
+      }
+      
       /* Ensure no orphans or widows */
       p, li, table {
         orphans: 3;
         widows: 3;
+      }
+      
+      /* Remove form elements and replace with print-friendly alternatives */
+      input[type="text"],
+      input[type="email"],
+      select,
+      textarea {
+        display: none;
       }
     }
   </style>
