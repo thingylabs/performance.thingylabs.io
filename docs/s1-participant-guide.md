@@ -7,6 +7,11 @@ subheading: This guide outlines the process for participating in our scientific 
 <!-- docs/s1-participant-guide.md -->
 ## Getting Started: Step-by-Step Instructions
 
+<div class="print-options">
+  <p>My participant code: <span class="write-in">TL-____________-_______</span></p>
+  <p>Study dates: <span class="write-in">________________</span> to <span class="write-in">________________</span></p>
+</div>
+
 ### Step 1: Create Your Participant Code
 1. Create your unique participant code using the format: **TL-YYYYMM-XXX**
    - YYYYMM = Current year and month (e.g., 202311)
@@ -38,6 +43,10 @@ subheading: This guide outlines the process for participating in our scientific 
 
 ## Supplement Protocol
 Follow the [Supplement Protocol](/thingylabs-performance-initiative/docs/s1-supplement-protocol) for details on the substances included in this study. You may follow packaging instructions or customize your dosage based on your needs.
+
+<div class="print-options">
+  <p>Notes: <span class="write-in long"></span></p>
+</div>
 
 ## Important Notes
 - **Pseudonymous Participation**: Your participant code allows us to track your progress without collecting personally identifying information.
