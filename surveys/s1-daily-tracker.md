@@ -86,6 +86,3 @@ Answer these on Sunday to assess your week. Anonymous by default:
 - **Productivity**: Rate 1–5 (1=low, 5=high). [____]
 - **Cognitive Performance**: Enhanced? (Yes/No) [____] Comments (50 chars max): [________]
 - **Sleep**: Improved? (Yes/No) [____] Comments (50 chars max): [________]
-
-## License
-CC BY-SA 4.0. © D3velop Ltd – Licensed to Thingylabs GmbH. [License](https://creativecommons.org/licenses/by-sa/4.0/).

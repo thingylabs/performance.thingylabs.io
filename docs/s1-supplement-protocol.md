@@ -39,6 +39,3 @@ These comply with Germany/EU and Seychelles health regulations, with no specific
 
 ## Limitations
 - Small sample size (n=2 initially) limits generalizability but serves as a pilot for scaling.
-
-## License
-CC BY-SA 4.0. © D3velop Ltd – Licensed to Thingylabs GmbH. [License](https://creativecommons.org/licenses/by-sa/4.0/).

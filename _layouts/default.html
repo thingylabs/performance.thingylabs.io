@@ -184,8 +184,55 @@
       padding: 4rem;
       background: var(--background-alt);
       border-top: 1px solid var(--border);
+    }
+
+    .footer-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 4rem;
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+
+    .footer-links h4 {
+      font-size: 1.125rem;
+      margin-bottom: 1.5rem;
+      font-weight: 400;
+    }
+
+    .footer-links a {
+      color: var(--text-light);
+      text-decoration: none;
+      display: block;
+      margin-bottom: 0.75rem;
+      transition: color 0.3s ease;
+    }
+
+    .footer-links a:hover {
+      color: var(--accent);
+    }
+
+    .copyright {
       text-align: center;
       color: var(--text-light);
+      padding-top: 4rem;
+      margin-top: 4rem;
+      border-top: 1px solid var(--border);
+    }
+
+    .license-info {
+      margin-top: 2rem;
+      text-align: center;
+      color: var(--text-light);
+    }
+
+    .license-info a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .license-info a:hover {
+      opacity: 0.8;
     }
 
     /* Responsive */
@@ -202,6 +249,9 @@
       .theme-switcher button {
         padding: 0.25rem 0.5rem;
         font-size: 0.9rem;
+      }
+      .footer-grid {
+        gap: 2rem;
       }
     }
 
@@ -270,7 +320,26 @@
     {{ content }}
   </main>
   <footer>
-    <p>© 2025 Thingylabs GmbH. All rights reserved.</p>
+    <div class="footer-grid">
+      <div class="footer-links">
+        <h4>Legal</h4>
+        <a href="https://www.thingylabs.io/impressum" target="_blank" rel="noopener noreferrer">Impressum</a>
+        <a href="https://www.thingylabs.io/datenschutz" target="_blank" rel="noopener noreferrer">Datenschutz</a>
+      </div>
+      <div class="footer-links">
+        <h4>Ownership & Licensing</h4>
+        <p>Owned by D3velop Ltd (In Gründung) and licensed to Thingylabs GmbH.</p>
+        <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer">CC BY-SA 4.0 License</a>
+      </div>
+      <div class="footer-links">
+        <h4>Contact</h4>
+        <a href="mailto:performance@thingylabs.io">performance@thingylabs.io</a>
+        <a href="tel:+4971196881461">+49 711 968 814 61</a>
+      </div>
+    </div>
+    <div class="copyright">
+      <p>© 2025 Thingylabs GmbH. All rights reserved.</p>
+    </div>
   </footer>
 
   <script>

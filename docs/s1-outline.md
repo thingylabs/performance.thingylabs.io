@@ -31,6 +31,3 @@ This outline defines the scope and structure of Study 1 at Thingylabs GmbH, owne
 ## Expected Outcomes
 - Improved well-being, energy, cognitive performance, and productivity.
 - Insights for scaling to a broader employee base or commercial product.
-
-## License
-CC BY-SA 4.0. © D3velop Ltd – Licensed to Thingylabs GmbH. [License](https://creativecommons.org/licenses/by-sa/4.0/).

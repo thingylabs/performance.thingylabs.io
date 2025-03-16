@@ -13,6 +13,3 @@ Resources for Study 1 at Thingylabs GmbH:
 - [Participant Guide](/thingylabs-performance-initiative/docs/s1-participant-guide) - Instructions for participants.
 - [Facilitator Guide](/thingylabs-performance-initiative/docs/s1-facilitator-guide) - Steps for facilitators.
 - [Study Outline](/thingylabs-performance-initiative/docs/s1-outline) - Overview and objectives.
-
-## License
-CC BY-SA 4.0. © D3velop Ltd – Licensed to Thingylabs GmbH. [License](https://creativecommons.org/licenses/by-sa/4.0/).

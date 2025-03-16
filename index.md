@@ -45,17 +45,3 @@ Owned by D3velop Ltd (In Gründung) and licensed to Thingylabs GmbH. Learn more 
 ## Contact
 For inquiries about the campaign, data protection, outreach, or commercial opportunities, email [performance@thingylabs.io](mailto:performance@thingylabs.io) or call [+49 711 968 814 61](tel:+4971196881461).
 
-## License
-Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/):
-- **Share**: Copy and redistribute freely.
-- **Adapt**: Remix or build upon for any purpose, even commercially.
-
-Terms:
-- **Attribution**: Credit Thingylabs GmbH and link to the license.
-- **ShareAlike**: Distribute adaptations under CC BY-SA 4.0.
-
-For commercial licensing or proprietary asset use (e.g., logo), contact [performance@thingylabs.io](mailto:performance@thingylabs.io).
-
----
-
-*Thank you for your trust in Thingylabs GmbH and D3velop Ltd (In Gründung). We look forward to your participation, collaboration, and potential partnership!*

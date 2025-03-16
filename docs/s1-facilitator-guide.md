@@ -28,6 +28,3 @@ This guide outlines the responsibilities and procedures for facilitators managin
 - Refer to [GDPR Compliance](/thingylabs-performance-initiative/gdpr-compliance) for data protection details.
 - No specific dosages are mandated—participants choose intake per packaging or preference.
 - Contact [performance@thingylabs.io](mailto:performance@thingylabs.io) for assistance or to report adverse reactions.
-
-## License
-CC BY-SA 4.0. © D3velop Ltd – Licensed to Thingylabs GmbH. [License](https://creativecommons.org/licenses/by-sa/4.0/).
