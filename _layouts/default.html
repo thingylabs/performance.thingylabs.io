@@ -203,6 +203,54 @@
         font-size: 0.9rem;
       }
     }
+
+    /* Print Styles */
+    @media print {
+      body {
+        font-size: 12pt; /* Standard print size */
+        color: #000000; /* Black text for print */
+        background: #ffffff; /* White background */
+      }
+      header, footer, .theme-switcher {
+        display: none; /* Hide header, footer, and switcher */
+      }
+      main {
+        margin: 0; /* Remove offset for print */
+        padding: 1rem; /* Minimal padding */
+        max-width: 100%; /* Full width for print */
+      }
+      h1, h2, h3 {
+        color: #000000; /* Black headings */
+        page-break-after: avoid; /* Avoid breaking after headings */
+      }
+      table {
+        page-break-inside: avoid; /* Keep tables intact */
+      }
+      th, td {
+        border: 1px solid #000000; /* Clear black borders */
+        padding: 0.5rem; /* Slightly smaller for print */
+      }
+      th {
+        background: #f0f0f0; /* Light gray for headers */
+      }
+      a {
+        color: #000000; /* Black links */
+        text-decoration: underline; /* Underline for clarity */
+      }
+      a[href]::after {
+        content: " (" attr(href) ")"; /* Print URL after links */
+        font-size: 10pt;
+        color: #666666;
+      }
+      ul {
+        margin-left: 1.5rem; /* Slightly less indent for print */
+      }
+      /* Ensure no orphans or widows */
+      p, li, table {
+        orphans: 3;
+        widows: 3;
+      }
+    }
   </style>
   <link rel="stylesheet" href="https://www.thingylabs.io/fonts.css" media="print" onload="this.media='all'">
 </head>
