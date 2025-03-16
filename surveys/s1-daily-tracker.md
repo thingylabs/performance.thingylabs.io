@@ -5,8 +5,6 @@ subheading: Track your supplement intake daily (Monday–Sunday) and answer the 
 ---
 
 <!-- surveys/s1-daily-traker.md -->
-# Study 1 Daily Tracker
-
 ## Monday
 <table>
   <thead>
