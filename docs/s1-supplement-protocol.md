@@ -5,8 +5,6 @@ subheading: This protocol details the nutritional supplement strategy for Study 
 ---
 
 <!-- docs/s1-supplement-protocol.md -->
-# Study 1 Supplement Protocol
-
 ## Supplements
 Participants use these non-proprietary supplements at their discretion. Follow packaging unless you choose otherwise. Links may include affiliate commissions:
 
