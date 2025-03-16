@@ -40,6 +40,21 @@ These comply with Germany/EU and Seychelles health regulations, with no specific
 ## Limitations
 - Small sample size (n=2 initially) limits generalizability but serves as a pilot for scaling.
 
+## Disclaimer and Indemnification
+- **Consult Healthcare Providers**: Participants should consult with their healthcare providers before starting any supplement regimen, especially if they have pre-existing health conditions or are taking medications.
+- **Not Medical Advice**: This protocol does not constitute medical advice. The supplements listed are suggestions based on scientific literature, not prescriptions.
+- **Individual Responsibility**: Participants take supplements at their own risk and are responsible for checking ingredient lists for potential allergens or contraindications.
+- **Voluntary Participation**: Participation in this study is entirely voluntary. Participants may discontinue use of any supplement at any time if they experience discomfort or adverse effects.
+- **Indemnification**: By participating in this study, participants agree to indemnify and hold harmless D3velop Ltd, Thingylabs GmbH, and their respective officers, directors, employees, and agents from any claims, liabilities, damages, or expenses arising from their participation in the study or use of the supplements.
+- **Reporting Adverse Effects**: Participants should immediately discontinue use of any supplement that causes adverse effects and report these to [performance@thingylabs.io](mailto:performance@thingylabs.io).
+
+For a complete overview of terms and conditions, please see our [Legal Disclaimer](/thingylabs-performance-initiative/legal-disclaimer).
+
 ---
 
 *For questions or to exercise your GDPR rights, contact [performance@thingylabs.io](mailto:performance@thingylabs.io).*
+
+---
+
+### License
+This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). © D3velop Ltd (In Gründung) – Licensed to Thingylabs GmbH.
