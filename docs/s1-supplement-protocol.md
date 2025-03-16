@@ -29,7 +29,7 @@ These comply with Germany/EU and Seychelles health regulations, with no specific
 
 ## Procedures
 - **Usage**: Participants adopt these supplements over 12 months, choosing intake amounts (follow packaging or adjust as preferred).
-- **Tracking**: Use the [Daily Tracker](surveys/s1-daily-tracker.md) to log intake daily and answer end-of-week questions.
+- **Tracking**: Use the [Daily Tracker](surveys/s1-daily-tracker) to log intake daily and answer end-of-week questions.
 
 ## Notes
 - For multivitamin guidance, see: [All About Vitamins & Minerals](https://www.precisionnutrition.com/all-about-vitamins-minerals).

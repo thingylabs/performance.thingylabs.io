@@ -19,14 +19,14 @@ This outline defines the scope and structure of Study 1 at Thingylabs GmbH, owne
 - **Focus**: Nutritional supplements (see [Supplement Protocol](s1-supplement-protocol.md)).
 
 ## Methodology
-- **Intervention**: Participants use supplements, tracked daily via [Daily Tracker](surveys/s1-daily-tracker.md).
+- **Intervention**: Participants use supplements, tracked daily via [Daily Tracker](surveys/s1-daily-tracker).
 - **Data Collection**: Weekly sheets log intake and end-of-week questions on well-being, energy, productivity, and sleep.
 - **Analysis**: Basic statistical analysis (e.g., means, t-tests) and qualitative coding.
 
 ## Key Components
-- **Supplements**: Detailed in [Supplement Protocol](s1-supplement-protocol.md).
-- **Participant Guidance**: Provided in [Participant Guide](s1-participant-guide.md).
-- **Facilitator Instructions**: Outlined in [Facilitator Protocol](study-1-facilitator-protocol.md).
+- **Supplements**: Detailed in [Supplement Protocol](s1-supplement-protocol).
+- **Participant Guidance**: Provided in [Participant Guide](s1-participant-guide).
+- **Facilitator Instructions**: Outlined in [Facilitator Protocol](study-1-facilitator-protocol).
 
 ## Expected Outcomes
 - Improved well-being, energy, cognitive performance, and productivity.

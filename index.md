@@ -33,16 +33,16 @@ Explore these directories:
 - **[`surveys/`](/thingylabs-performance-initiative/surveys)**: Daily tracking sheets and surveys.
 
 ## Next Steps for Facilitators
-- Check the [Supplement Protocol](/thingylabs-performance-initiative/docs/s1-supplement-protocol.md) and [Participant Guide](/thingylabs-performance-initiative/docs/s1-participant-guide.md) to get started.
+- Check the [Supplement Protocol](/thingylabs-performance-initiative/docs/s1-supplement-protocol) and [Participant Guide](/thingylabs-performance-initiative/docs/s1-participant-guide) to get started.
 - Share participant guides with your group.
-- Hand out the [Daily Tracker](/thingylabs-performance-initiative/surveys/s1-daily-tracker.md) for daily logging over the week.
+- Hand out the [Daily Tracker](/thingylabs-performance-initiative/surveys/s1-daily-tracker) for daily logging over the week.
 - Collect completed sheets weekly.
 
 ## GDPR Compliance
-We process personal data per GDPR. Learn more in [gdpr-compliance.md](/thingylabs-performance-initiative/gdpr-compliance.md).
+We process personal data per GDPR. Learn more in [GDPR Compliance](/thingylabs-performance-initiative/gdpr-compliance).
 
 ## Ownership and Licensing
-Owned by D3velop Ltd (In Gründung) and licensed to Thingylabs GmbH. Learn more in [ownership-and-licensing.md](/thingylabs-performance-initiative/ownership-and-licensing.md).
+Owned by D3velop Ltd (In Gründung) and licensed to Thingylabs GmbH. Learn more in [Ownership and Licensing](/thingylabs-performance-initiative/ownership-and-licensing).
 
 ## Contact
 For inquiries about the campaign, data protection, outreach, or commercial opportunities, email [performance@thingylabs.io](mailto:performance@thingylabs.io) or call [+49 711 968 814 61](tel:+4971196881461).
