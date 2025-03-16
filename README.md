@@ -51,16 +51,4 @@ We take data protection seriously. Our approach includes:
 - Secure storage on encrypted servers
 - Clear processes for participants to exercise their GDPR rights
 
-For full details, see our GDPR Compliance page on the website.
-
-## Contact
-For inquiries about the campaign, data protection, outreach, commercial opportunities, or licensing, email [performance@thingylabs.io](mailto:performance@thingylabs.io) or call [+49 711 968 814 61](tel:+4971196881461).
-
----
-
-*Thank you for your trust in Thingylabs GmbH and D3velop Ltd (In Gründung). We look forward to your participation, collaboration, and potential partnership!*
-
----
-
-### License
-This work is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). © D3velop Ltd (In Gründung) – Licensed to Thingylabs GmbH.
+For full details, see our [GDPR Compliance](gdpr-compliance.md) page on the website.
