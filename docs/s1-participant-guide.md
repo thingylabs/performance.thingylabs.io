@@ -20,13 +20,13 @@ subheading: This guide outlines the process for participating in our scientific 
 2. Remember this code and use it consistently on all study forms.
 
 ### Step 2: Complete the Entry Survey
-1. Print the [Entry Survey](/thingylabs-performance-initiative/surveys/s1-entry-survey)
+1. Print the [Entry Survey](/surveys/s1-entry-survey)
 2. Fill in your participant code at the top
 3. Complete all questions
 4. Submit your completed survey to your study coordinator or email to [performance@thingylabs.io](mailto:performance@thingylabs.io)
 
 ### Step 3: Weekly Tracking (Repeat for 8 Weeks)
-1. Print a new [Daily Tracker](/thingylabs-performance-initiative/surveys/s1-daily-tracker) each week
+1. Print a new [Daily Tracker](/surveys/s1-daily-tracker) each week
 2. Write your participant code and the current week number (1-8) at the top
 3. Each day:
    - Check the box for each supplement taken
@@ -36,13 +36,13 @@ subheading: This guide outlines the process for participating in our scientific 
    - Submit your completed tracker to your study coordinator or email to [performance@thingylabs.io](mailto:performance@thingylabs.io)
 
 ### Step 4: Complete the Exit Survey
-1. After 8 weeks, print the [Exit Survey](/thingylabs-performance-initiative/surveys/s1-exit-survey)
+1. After 8 weeks, print the [Exit Survey](/surveys/s1-exit-survey)
 2. Fill in your participant code at the top
 3. Complete all questions
 4. Submit your completed survey to your study coordinator or email to [performance@thingylabs.io](mailto:performance@thingylabs.io)
 
 ## Supplement Protocol
-Follow the [Supplement Protocol](/thingylabs-performance-initiative/docs/s1-supplement-protocol) for details on the substances included in this study. You may follow packaging instructions or customize your dosage based on your needs.
+Follow the [Supplement Protocol](/docs/s1-supplement-protocol) for details on the substances included in this study. You may follow packaging instructions or customize your dosage based on your needs.
 
 <div class="print-options">
   <p>Notes: <span class="write-in long"></span></p>
