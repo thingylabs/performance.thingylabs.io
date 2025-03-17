@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Study 1 Daily Tracker
-subheading: Track your supplement intake daily (Monday–Sunday) and answer the end-of-week questions on Sunday. Check the box if taken and note your dose (e.g., pills, grams). See the <a href="/thingylabs-performance-initiative/docs/s1-supplement-protocol">Supplement Protocol</a> for details.
+subheading: Track your supplement intake daily (Monday–Sunday) and answer the end-of-week questions on Sunday. Check the box if taken and note your dose (e.g., pills, grams). See the <a href="/docs/s1-supplement-protocol">Supplement Protocol</a> for details.
 ---
 
 <!-- surveys/s1-daily-traker.md -->
